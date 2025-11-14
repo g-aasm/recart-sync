@@ -1,0 +1,2948 @@
+{
+    "meta": {
+        "source": "auvo_clients",
+        "fetched_at": "13\/11\/2025 19:29:48",
+        "count": 78
+    },
+    "data": {
+        "count": 78,
+        "data": [
+            {
+                "cpfCnpj": "24735151000156",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R MARIA TEREZA, 20, CENTRO, SAO JOAO DEL REI, MG, 36.307-312",
+                "latitude": -21.13402,
+                "longitude": -44.258,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-07T11:16:46",
+                "creationDate": "2025-09-29T17:19:19",
+                "contacts": [
+                    {
+                        "id": 31800427,
+                        "name": "Geral - Spc",
+                        "jobPosition": "Secundário ",
+                        "email": "",
+                        "phone": "3233794800"
+                    },
+                    {
+                        "id": 31800446,
+                        "name": "Geral - Secretaria\/ Financeiro",
+                        "jobPosition": "Principal",
+                        "email": "",
+                        "phone": "3298707727"
+                    }
+                ],
+                "id": 19915680,
+                "description": "ACI Del Rei"
+            },
+            {
+                "cpfCnpj": "47397699000139",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AMG-415, Coronel Xavier Chaves - MG, 36330-000, Brasil",
+                "latitude": -21.048898306006976,
+                "longitude": -44.20499324798585,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T16:36:43",
+                "creationDate": "2025-09-30T11:51:56",
+                "contacts": [
+                    {
+                        "id": 31800786,
+                        "name": "Gustavo Cantelmo  - TI",
+                        "jobPosition": "Secundário ",
+                        "email": "gcantelmo@bostonmetal.com",
+                        "phone": "3298006783"
+                    },
+                    {
+                        "id": 31800795,
+                        "name": "Anderson Teixeira - TI",
+                        "jobPosition": "Principal",
+                        "email": "ateixeira@bostonmetal.com",
+                        "phone": "3291196693"
+                    }
+                ],
+                "id": 19937610,
+                "description": "Boston Metal do Brasil"
+            },
+            {
+                "cpfCnpj": "08090788000267",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "BR-265, São João del Rei - MG, Brasil",
+                "latitude": -21.17836934104254,
+                "longitude": -44.308633804321296,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T16:38:34",
+                "creationDate": "2025-09-30T12:03:41",
+                "contacts": [
+                    {
+                        "id": 31801120,
+                        "name": "Geraldo Davin - TI",
+                        "jobPosition": "Principal",
+                        "email": "geraldo.davin@bozel.com",
+                        "phone": "3288430651"
+                    },
+                    {
+                        "id": 31801144,
+                        "name": "Pablo Wilson - TI",
+                        "jobPosition": "Secundário ",
+                        "email": "pablo.wilson@bozel.com",
+                        "phone": "3284188346"
+                    },
+                    {
+                        "id": 31801163,
+                        "name": "Vitor Anastácio - TI",
+                        "jobPosition": "Secundário ",
+                        "email": "vitor.anastacio@bozel.com",
+                        "phone": "3299053210"
+                    }
+                ],
+                "id": 19937696,
+                "description": "Bozel Brasil"
+            },
+            {
+                "cpfCnpj": "25994179000170",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV ARNOBIO CALDEIRA FRANCO, 562, CENTRO, SANTA CRUZ DE MINAS, MG, 36.328-000",
+                "latitude": -21.12126,
+                "longitude": -44.22537,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:40:04",
+                "creationDate": "2025-09-30T12:15:05",
+                "contacts": [],
+                "id": 19937779,
+                "description": "Esquinão - Loja 05 | Sta. Cruz de Minas"
+            },
+            {
+                "cpfCnpj": "21325027000124",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "BR-265, Vila Brasil, São João del Rei - MG, Brasil",
+                "latitude": -21.151715716280503,
+                "longitude": -44.25938844680787,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T16:40:39",
+                "creationDate": "2025-09-30T12:35:37",
+                "contacts": [
+                    {
+                        "id": 31802635,
+                        "name": "Geral - Tesouraria",
+                        "jobPosition": "",
+                        "email": "tesouraria.apacfemsjdr@gmail.com",
+                        "phone": "3288964820"
+                    }
+                ],
+                "id": 19937885,
+                "description": "APAC Feminina"
+            },
+            {
+                "cpfCnpj": "11224676000347",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "AMG BRASIL",
+                "note": "",
+                "address": "BR-383, Colônia do Marçal, São João del Rei - MG, Brasil",
+                "latitude": -21.08512073632248,
+                "longitude": -44.22844648361206,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T14:22:45",
+                "creationDate": "2025-09-30T16:52:25",
+                "contacts": [
+                    {
+                        "id": 31817127,
+                        "name": "Gustavo Alves - TI",
+                        "jobPosition": "Principal",
+                        "email": "",
+                        "phone": "3299053218"
+                    },
+                    {
+                        "id": 31817175,
+                        "name": "Thiago Mairink - TI",
+                        "jobPosition": "Secundário ",
+                        "email": "",
+                        "phone": "3298083987"
+                    }
+                ],
+                "id": 19952169,
+                "description": "AMG Brasil SJDR"
+            },
+            {
+                "cpfCnpj": "25994179000685",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R VEREADOR ELI ARAUJO, 201, FABRICAS, SAO JOAO DEL REI, MG, 36.301-202",
+                "latitude": -21.1263,
+                "longitude": -44.2474,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T10:29:10",
+                "creationDate": "2025-10-06T10:26:13",
+                "contacts": [],
+                "id": 20025175,
+                "description": "Esquinão - Loja 06 | Fábricas"
+            },
+            {
+                "cpfCnpj": "25994179000251",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "SUPERMERCADO ESKYNAO LTDA",
+                "note": "",
+                "address": "BR-265, Vila Brasil, São João del Rei - MG, Brasil",
+                "latitude": -21.1496544627924,
+                "longitude": -44.2536807060242,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T14:13:10",
+                "creationDate": "2025-10-06T10:33:09",
+                "contacts": [
+                    {
+                        "id": 32629796,
+                        "name": "Webert - TI",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299788443"
+                    },
+                    {
+                        "id": 32629812,
+                        "name": "Rhian - TI",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3284580801"
+                    }
+                ],
+                "id": 20025572,
+                "description": "Esquinão - Loja 07 | Bonfim (CD)"
+            },
+            {
+                "cpfCnpj": "25994179000332",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "SUPERMERCADO ESKYNAO LTDA",
+                "note": "",
+                "address": "R CARLOS GUEDES, 122, MATOZINHOS, SAO JOAO DEL REI, MG, 36.305-154",
+                "latitude": -21.12821,
+                "longitude": -44.24181,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T10:38:42",
+                "creationDate": "2025-10-06T10:38:11",
+                "contacts": [],
+                "id": 20025909,
+                "description": "Esquinão - Loja 08 | Matosinhos"
+            },
+            {
+                "cpfCnpj": "25994179000413",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV JOSUE DE QUEIROZ, 1071, MATOZINHOS, SAO JOAO DEL REI, MG, 36.305-146",
+                "latitude": -21.13368,
+                "longitude": -44.23322,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T10:44:39",
+                "creationDate": "2025-10-06T10:43:57",
+                "contacts": [],
+                "id": 20026160,
+                "description": "Esquinão - Loja 09 | Bom Pastor"
+            },
+            {
+                "cpfCnpj": "25994179000502",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R DOS INCONFIDENTES, 360, CENTRO, TIRADENTES, MG, 36.325-000",
+                "latitude": -21.11212,
+                "longitude": -44.17075,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T10:46:30",
+                "creationDate": "2025-10-06T10:46:05",
+                "contacts": [],
+                "id": 20026190,
+                "description": "Esquinão - Loja 10 | Tiradentes"
+            },
+            {
+                "cpfCnpj": "25994179000928",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "SUPERMERCADO ESKYNAO LTDA",
+                "note": "",
+                "address": "TV LOPES BAHIA, 35, CENTRO, SAO JOAO DEL REI, MG, 36.300-066",
+                "latitude": -21.13322,
+                "longitude": -44.25896,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T10:50:43",
+                "creationDate": "2025-10-06T10:50:43",
+                "contacts": [],
+                "id": 20026275,
+                "description": "Esquinão - Loja 11 | Centro"
+            },
+            {
+                "cpfCnpj": "25994179000766",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "SUPERMERCADO ESKYNAO LTDA",
+                "note": "",
+                "address": "Rua São José Operário, 745, Tejuco, São João del Rei - MG, Brasil",
+                "latitude": -21.139355270210793,
+                "longitude": -44.26930189132691,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T17:53:03",
+                "creationDate": "2025-10-06T10:52:43",
+                "contacts": [],
+                "id": 20026309,
+                "description": "Esquinão - Loja 12 | Tejuco"
+            },
+            {
+                "cpfCnpj": "25994179000847",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "SUPERMERCADO ESKYNAO LTDA",
+                "note": "",
+                "address": "R JOSE PEDRO AZEVEDO, 118, SENHOR DOS MONTES, SAO JOAO DEL REI, MG, 36.300-258",
+                "latitude": -21.12848,
+                "longitude": -44.26573,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T11:05:27",
+                "creationDate": "2025-10-06T11:05:27",
+                "contacts": [],
+                "id": 20026481,
+                "description": "Esquinão - Loja 13 | Sr. dos Montes"
+            },
+            {
+                "cpfCnpj": "25994179001223",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R JOAQUIM FERREIRA, 27, CENTRO, BARROSO, MG, 36.295-022",
+                "latitude": -21.18794,
+                "longitude": -43.9751,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T11:07:22",
+                "creationDate": "2025-10-06T11:07:22",
+                "contacts": [],
+                "id": 20026508,
+                "description": "Esquinão - Loja 14 | Barroso, Colonial "
+            },
+            {
+                "cpfCnpj": "25994179001142",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R OLIVEIRA, 32, SAO JOSE, BARROSO, MG, 36.212-000",
+                "latitude": -21.19219,
+                "longitude": -43.97962,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T11:09:59",
+                "creationDate": "2025-10-06T11:09:59",
+                "contacts": [],
+                "id": 20026547,
+                "description": "Esquinão - Loja 15 | Barroso, São José"
+            },
+            {
+                "cpfCnpj": "25994179001061",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "Rua Capitão Job Mata, 130, São Tiago - MG, 36350-000, Brasil",
+                "latitude": -20.908550957910375,
+                "longitude": -44.505915641784675,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T17:47:57",
+                "creationDate": "2025-10-06T11:13:28",
+                "contacts": [],
+                "id": 20026592,
+                "description": "Esquinão - Loja 16 | São Tiago"
+            },
+            {
+                "cpfCnpj": "25994179001495",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV TOME PORTES DEL REI, 50, VILA SANTO ANTONIO (MATOZINHOS), SAO JOAO DEL REI, MG, 36.305-058",
+                "latitude": -21.12686,
+                "longitude": -44.23721,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T12:44:41",
+                "creationDate": "2025-10-06T12:44:41",
+                "contacts": [],
+                "id": 20032640,
+                "description": "Esquinão - Loja 17 | Matosinhos"
+            },
+            {
+                "cpfCnpj": "25994179001738",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R JOAQUIM MEIRELES, 30, CENTRO, BARROSO, MG, 36.295-044",
+                "latitude": -21.18875,
+                "longitude": -43.97717,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T14:15:38",
+                "creationDate": "2025-10-06T14:15:38",
+                "contacts": [],
+                "id": 20033333,
+                "description": "Esquinão - Loja 18 | Barroso, Centro"
+            },
+            {
+                "cpfCnpj": "25994179001576",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R SERGIPE, 107, JARDIM BANDEIRANTES, BARROSO, MG, 36.297-138",
+                "latitude": -21.2024,
+                "longitude": -43.96898,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T14:17:23",
+                "creationDate": "2025-10-06T14:17:23",
+                "contacts": [],
+                "id": 20033346,
+                "description": "Esquinão - Loja 19 | Barroso, Bandeirantes"
+            },
+            {
+                "cpfCnpj": "25994179001908",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "PC RAUL SOARES, 95, CENTRO, SAO JOAO DEL REI, MG, 36.300-002",
+                "latitude": -21.13103,
+                "longitude": -44.25479,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T14:19:47",
+                "creationDate": "2025-10-06T14:19:47",
+                "contacts": [],
+                "id": 20033373,
+                "description": "Esquinão - Loja 21 | Centro"
+            },
+            {
+                "cpfCnpj": "25994179002033",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "Avenida Sete de Setembro, 161, Matozinhos, São João del Rei - MG, 36305-134, Brasil",
+                "latitude": -21.12689871998829,
+                "longitude": -44.23799514770508,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T17:50:11",
+                "creationDate": "2025-10-06T14:22:12",
+                "contacts": [],
+                "id": 20033399,
+                "description": "Esquinão - Loja 22 | Matosinhos"
+            },
+            {
+                "cpfCnpj": "25994179001657",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV LEITE DE CASTRO, 1040, FABRICAS, SAO JOAO DEL REI, MG, 36.301-180",
+                "latitude": -21.12158,
+                "longitude": -44.24639,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T14:24:28",
+                "creationDate": "2025-10-06T14:24:28",
+                "contacts": [],
+                "id": 20033414,
+                "description": "Esquinão - Loja 23 | Fábricas"
+            },
+            {
+                "cpfCnpj": "11224676000185",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "MG-335, NAZARENO - MG, 36370-000, Brasil",
+                "latitude": -21.086402075848884,
+                "longitude": -44.58887100219727,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T15:01:26",
+                "creationDate": "2025-10-06T14:32:16",
+                "contacts": [
+                    {
+                        "id": 32456320,
+                        "name": "Gustavo Alves - TI",
+                        "jobPosition": "Principal",
+                        "email": "",
+                        "phone": "3299053218"
+                    },
+                    {
+                        "id": 32456335,
+                        "name": "Thiago Mairink - TI",
+                        "jobPosition": "Secundário ",
+                        "email": "",
+                        "phone": "3298083987"
+                    }
+                ],
+                "id": 20033503,
+                "description": "AMG Brasil Nazareno"
+            },
+            {
+                "cpfCnpj": "50572301000168",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R IRMAOS FALEIROS, 27, VILA SANTO ANTONIO (MATOZINHOS), SAO JOAO DEL REI, MG, 36.305-056",
+                "latitude": -21.12671,
+                "longitude": -44.23819,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:12:00",
+                "creationDate": "2025-10-06T15:19:50",
+                "contacts": [
+                    {
+                        "id": 32456386,
+                        "name": "Alessandro Silva - Proprietário ",
+                        "jobPosition": "",
+                        "email": "contato.alessandro@gmail.com",
+                        "phone": "3288653134"
+                    }
+                ],
+                "id": 20033994,
+                "description": "Arte e Cia"
+            },
+            {
+                "cpfCnpj": "70986302000166",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R RUA DA FABRICA, 10, RUA DE BAIXO, PRADOS, MG, 36.320-000",
+                "latitude": -21.07305,
+                "longitude": -44.07814,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:15:38",
+                "creationDate": "2025-10-06T15:22:44",
+                "contacts": [
+                    {
+                        "id": 32456433,
+                        "name": "Igor Alves - TI Prados",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3284687769"
+                    },
+                    {
+                        "id": 32456472,
+                        "name": "Geral - TI Barbacena",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3230526325"
+                    },
+                    {
+                        "id": 32456504,
+                        "name": "Antônio Silva - TI Barbacena",
+                        "jobPosition": "",
+                        "email": "antonio.silva@atalaiaalimentos.ind.br",
+                        "phone": "3185881972"
+                    }
+                ],
+                "id": 20034028,
+                "description": "Atalaia Alimentos"
+            },
+            {
+                "cpfCnpj": "26147827000116",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R MINISTRO GABRIEL PASSOS, 300, APTO 201, CENTRO, SAO JOAO DEL REI, MG, 36.307-330",
+                "latitude": -21.13674,
+                "longitude": -44.25926,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T14:28:10",
+                "creationDate": "2025-10-06T15:23:40",
+                "contacts": [
+                    {
+                        "id": 32456598,
+                        "name": "Geral  - Atendimento",
+                        "jobPosition": "",
+                        "email": "departamentofiscalaudiplan01@hotmail.com",
+                        "phone": "3233723048"
+                    }
+                ],
+                "id": 20034038,
+                "description": "Audiplan Assessoria Contábil"
+            },
+            {
+                "cpfCnpj": "17078874000164",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "RUA SD-185, 244, BARBACENA - MG, BRASIL",
+                "latitude": -21.2192809095925,
+                "longitude": -43.7441575527191,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T16:50:58",
+                "creationDate": "2025-10-06T15:31:36",
+                "contacts": [
+                    {
+                        "id": 32456673,
+                        "name": "Suênia",
+                        "jobPosition": "",
+                        "email": "cabanadamantiqueira@gmail.com",
+                        "phone": "3284815556"
+                    }
+                ],
+                "id": 20034125,
+                "description": "Cabana da Mantiqueira"
+            },
+            {
+                "cpfCnpj": "27729190000139",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV EXPEDICIONARIOS, 2000, ONU, SAO TIAGO, MG, 36.350-000",
+                "latitude": -20.91697,
+                "longitude": -44.51406,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:26:32",
+                "creationDate": "2025-10-06T15:32:51",
+                "contacts": [
+                    {
+                        "id": 32456711,
+                        "name": "Paulo Campos",
+                        "jobPosition": "",
+                        "email": "pauloanancampos@yahoo.com.br",
+                        "phone": "3299133513"
+                    },
+                    {
+                        "id": 32456752,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298037667"
+                    }
+                ],
+                "id": 20034134,
+                "description": "Campos Distribuidora"
+            },
+            {
+                "cpfCnpj": "20313664000118",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R JORGE JOSÉ CANAAN - MERCÊS DE ÁGUA LIMPA, SÃO TIAGO - MG, 36352-000",
+                "latitude": -21.04406,
+                "longitude": -44.60369,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-07T11:37:57",
+                "creationDate": "2025-10-06T15:34:31",
+                "contacts": [
+                    {
+                        "id": 32456774,
+                        "name": "Loraine",
+                        "jobPosition": "",
+                        "email": "cartoriomercesdeagualimpa23@gmail.com",
+                        "phone": "3299248169"
+                    }
+                ],
+                "id": 20034149,
+                "description": "Cartório Mercês de Água Limpa"
+            },
+            {
+                "cpfCnpj": "02348797000148",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AVENIDA ANDRADE REIS, 49, CENTRO, SÃO JOÃO DEL REI - MG, 36307-324, BRASIL",
+                "latitude": -21.135805297582237,
+                "longitude": -44.258079528808594,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T15:06:28",
+                "creationDate": "2025-10-06T15:40:39",
+                "contacts": [
+                    {
+                        "id": 32456795,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3233718150"
+                    },
+                    {
+                        "id": 32456805,
+                        "name": "Andrea - Financeiro",
+                        "jobPosition": "",
+                        "email": "andrea@cherokeeseguros.com.br",
+                        "phone": "3299285074"
+                    }
+                ],
+                "id": 20034212,
+                "description": "Cherokee Seguros"
+            },
+            {
+                "cpfCnpj": "19606640000178",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "HELENO DE ASSIS VIEIRA",
+                "note": "",
+                "address": "AV TRINTA E UM DE MARCO, 1581, COLONIA DO MARCAL, SAO JOAO DEL REI, MG, 36.302-016",
+                "latitude": -21.10544,
+                "longitude": -44.22942,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:30:10",
+                "creationDate": "2025-10-06T15:44:13",
+                "contacts": [
+                    {
+                        "id": 32457028,
+                        "name": "Heleno Vieira - Proprietário",
+                        "jobPosition": "",
+                        "email": "coloniavirtual@gmail.com",
+                        "phone": "3299669040"
+                    }
+                ],
+                "id": 20034249,
+                "description": "Colônia Virtual"
+            },
+            {
+                "cpfCnpj": "45999924000181",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV PREFEITO OCACYR ALVES DE ANDRADE, 65, CENTRO, RESENDE COSTA, MG, 36.340-000",
+                "latitude": -20.92122,
+                "longitude": -44.23742,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:35:17",
+                "creationDate": "2025-10-06T15:45:24",
+                "contacts": [
+                    {
+                        "id": 32457127,
+                        "name": "Pedro - Proprietário",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299633136"
+                    },
+                    {
+                        "id": 32557327,
+                        "name": "Antônio Neto - Proprietário ",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299559961"
+                    },
+                    {
+                        "id": 32557412,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "geral@contempservice.com.br",
+                        "phone": "3299557761"
+                    }
+                ],
+                "id": 20034263,
+                "description": "Contemp Prime"
+            },
+            {
+                "cpfCnpj": "02315025000290",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV CONEGO ANTONIO CARLOS, 117, CENTRO, CORONEL XAVIER CHAVES, MG, 36.330-000",
+                "latitude": -21.02426,
+                "longitude": -44.22421,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:36:21",
+                "creationDate": "2025-10-06T15:46:33",
+                "contacts": [
+                    {
+                        "id": 32457161,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "contempservice@yahoo.com.br",
+                        "phone": "3298454553"
+                    }
+                ],
+                "id": 20034278,
+                "description": "Contemp Service"
+            },
+            {
+                "cpfCnpj": "36827757000109",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "Avenida Josué de Queiroz, 701, Vila Santa Terezinha, São João del Rei - MG, 36305-222, Brasil",
+                "latitude": -21.13146716062111,
+                "longitude": -44.23589766025543,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T17:18:44",
+                "creationDate": "2025-10-06T15:53:43",
+                "contacts": [
+                    {
+                        "id": 32457230,
+                        "name": "Sabrina Soriano - Proprietária",
+                        "jobPosition": "",
+                        "email": "sabrina.sooriano@icloud.com",
+                        "phone": "3299903226"
+                    },
+                    {
+                        "id": 32457268,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299778053"
+                    }
+                ],
+                "id": 20034330,
+                "description": "Dr. Smart"
+            },
+            {
+                "cpfCnpj": "04205273000123",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV PADRE FRANCISCO DE ANDRADE, 108, CENTRO, NAZARENO, MG, 36.370-000",
+                "latitude": -21.21788,
+                "longitude": -44.61417,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:38:38",
+                "creationDate": "2025-10-06T15:56:23",
+                "contacts": [
+                    {
+                        "id": 32457320,
+                        "name": "Ana Carolina Figueiredo - Proprietária ",
+                        "jobPosition": "",
+                        "email": "anacarolafigueiredo@yahoo.com.br",
+                        "phone": "3598046104"
+                    }
+                ],
+                "id": 20034349,
+                "description": "Drogaria Nossa Senhora de Nazaré"
+            },
+            {
+                "cpfCnpj": "34992787000137",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R SARGENTO ORLANDO RANDI, 43, FABRICAS, SAO JOAO DEL REI, MG, 36.301-198",
+                "latitude": -21.12425,
+                "longitude": -44.24734,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:39:34",
+                "creationDate": "2025-10-06T15:57:36",
+                "contacts": [
+                    {
+                        "id": 32457390,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "espacoanimal520@gmail.com",
+                        "phone": "3288488896"
+                    }
+                ],
+                "id": 20034356,
+                "description": "Espaço Animal"
+            },
+            {
+                "cpfCnpj": "31505198000199",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "Rua Doutor Balbino da Cunha, 142, Centro, São João del Rei - MG, 36307-350, Brasil",
+                "latitude": -21.13769912724811,
+                "longitude": -44.260167628526695,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T17:34:02",
+                "creationDate": "2025-10-06T16:00:53",
+                "contacts": [
+                    {
+                        "id": 32457445,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "sjoaodelrei.mg@escolasfisk.com.br",
+                        "phone": "3298598429"
+                    }
+                ],
+                "id": 20034390,
+                "description": "Fisk"
+            },
+            {
+                "cpfCnpj": "52688610000123",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "Avenida Carvalho de Resende, 165, Nazareno - MG, 36370-000, Brasil",
+                "latitude": -21.2183857777261,
+                "longitude": -44.6139845252037,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T17:32:57",
+                "creationDate": "2025-10-06T16:06:16",
+                "contacts": [
+                    {
+                        "id": 32457505,
+                        "name": "André Ferreira",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3597710639"
+                    },
+                    {
+                        "id": 32457521,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "contato@gmturismo.com.br",
+                        "phone": "3599393326"
+                    }
+                ],
+                "id": 20034432,
+                "description": "GM Turismo"
+            },
+            {
+                "cpfCnpj": "05833746000523",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R PREFEITO NASCIMENTO TEIXEIRA, 171, SEGREDO, SAO JOAO DEL REI, MG, 36.307-404",
+                "latitude": -21.13883,
+                "longitude": -44.25587,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-07T12:09:25",
+                "creationDate": "2025-10-06T16:08:34",
+                "contacts": [
+                    {
+                        "id": 32457536,
+                        "name": "Lifferson Santos - TI ",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298227248"
+                    },
+                    {
+                        "id": 32457549,
+                        "name": "Matheus - TI",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299846173"
+                    }
+                ],
+                "id": 20034459,
+                "description": "Granha Ligas - Escritório"
+            },
+            {
+                "cpfCnpj": "05833746000280",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "ROD BR 265, S\/N, ZONA RURAL, SAO JOAO DEL REI, MG, 36.307-700",
+                "latitude": -21.1389,
+                "longitude": -44.25784,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-07T12:10:47",
+                "creationDate": "2025-10-06T16:11:37",
+                "contacts": [
+                    {
+                        "id": 32457560,
+                        "name": "Lifferson Santos - TI ",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298227248"
+                    },
+                    {
+                        "id": 32457563,
+                        "name": "Matheus - TI",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299846173"
+                    }
+                ],
+                "id": 20034484,
+                "description": "Granha Ligas - Fábrica"
+            },
+            {
+                "cpfCnpj": "46390251000120",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R ANTONIO ROCHA, 247, CENTRO, SAO JOAO DEL REI, MG, 36.307-304",
+                "latitude": -21.13182,
+                "longitude": -44.25431,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:50:39",
+                "creationDate": "2025-10-06T16:28:14",
+                "contacts": [
+                    {
+                        "id": 32457621,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "gvclinicas.sjdr@gmail.com",
+                        "phone": "3233238582"
+                    }
+                ],
+                "id": 20034635,
+                "description": "GV Clínicas"
+            },
+            {
+                "cpfCnpj": "11210605000123",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R CALDAS DA RAINHA, 2037, SAO FRANCISCO, BELO HORIZONTE, MG, 31.255-180",
+                "latitude": -19.88126,
+                "longitude": -43.96085,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-06T16:30:28",
+                "creationDate": "2025-10-06T16:30:28",
+                "contacts": [
+                    {
+                        "id": 32457680,
+                        "name": "Murilo Cardoso",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3184864926"
+                    },
+                    {
+                        "id": 32457695,
+                        "name": "Maria da Penha",
+                        "jobPosition": "Secundário ",
+                        "email": "penha@haixrental.com.br",
+                        "phone": "3184967994"
+                    }
+                ],
+                "id": 20034657,
+                "description": "HAIX Rental"
+            },
+            {
+                "cpfCnpj": "24731747000188",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "Praça Francisco Neves, 31, Centro, São João del Rei - MG, 36300-136, Brasil",
+                "latitude": -21.13445433428697,
+                "longitude": -44.263315200805664,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-09T17:45:39",
+                "creationDate": "2025-10-06T16:33:10",
+                "contacts": [
+                    {
+                        "id": 32536963,
+                        "name": "Heduardo - TI",
+                        "jobPosition": "Principal",
+                        "email": "",
+                        "phone": "3299118210"
+                    },
+                    {
+                        "id": 32537009,
+                        "name": "Vinícius - TI",
+                        "jobPosition": "Secundário ",
+                        "email": "",
+                        "phone": "3284475784"
+                    },
+                    {
+                        "id": 32544735,
+                        "name": "Bruno - TI Centro de Imagem",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3288030322"
+                    }
+                ],
+                "id": 20034687,
+                "description": "Hospital das Mercês"
+            },
+            {
+                "cpfCnpj": "13755671000104",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "RUA PADRE ANCHIETA, 48, CENTRO, BARBACENA, MG, 36.200-036",
+                "latitude": -21.21987,
+                "longitude": -43.77488,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T08:37:56",
+                "creationDate": "2025-10-06T16:36:50",
+                "contacts": [
+                    {
+                        "id": 32537045,
+                        "name": "Maria Gabriela",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3288862717"
+                    }
+                ],
+                "id": 20034726,
+                "description": "Hospital de Olhos de Barbacena"
+            },
+            {
+                "cpfCnpj": "04371368000117",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AVENIDA TRINTA E UM DE MARCO, 700, COLONIA DO MARCAL, SAO JOAO DEL REI, MG, 36.302-016",
+                "latitude": -21.109,
+                "longitude": -44.23456,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:55:46",
+                "creationDate": "2025-10-06T16:39:38",
+                "contacts": [
+                    {
+                        "id": 32537112,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "atacadaodasimagensltda@gmail.com",
+                        "phone": "3284623399"
+                    },
+                    {
+                        "id": 32558615,
+                        "name": "Hilton Wagner - Proprietário ",
+                        "jobPosition": "",
+                        "email": "hilton.wagner.teixeira@gmail.com",
+                        "phone": "3291087129"
+                    }
+                ],
+                "id": 20034750,
+                "description": "Hotel Edmilson"
+            },
+            {
+                "cpfCnpj": "46327419000153",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "RUA HOMEM DE ALMEIDA, 5, ALTO DAS MERCES, SAO JOAO DEL REI, MG, 36.300-194",
+                "latitude": -21.13424,
+                "longitude": -44.26313,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T14:59:08",
+                "creationDate": "2025-10-06T16:47:54",
+                "contacts": [
+                    {
+                        "id": 32537305,
+                        "name": "Bruna Ávila",
+                        "jobPosition": "Principal",
+                        "email": "",
+                        "phone": "3299111909"
+                    },
+                    {
+                        "id": 32537625,
+                        "name": "Andressa",
+                        "jobPosition": "Secundário ",
+                        "email": "",
+                        "phone": "3299473852"
+                    }
+                ],
+                "id": 20034819,
+                "description": "IMA - Ressonância Magnética"
+            },
+            {
+                "cpfCnpj": "17084484000105",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R PADRE MANOEL RODRIGUES, 237, CARMO, BARBACENA, MG, 36.200-654",
+                "latitude": -21.23593,
+                "longitude": -43.76946,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:02:56",
+                "creationDate": "2025-10-06T16:52:01",
+                "contacts": [
+                    {
+                        "id": 32537991,
+                        "name": "Guida - RH",
+                        "jobPosition": "",
+                        "email": "rh@institutobpastor.org.br",
+                        "phone": "3288977697"
+                    },
+                    {
+                        "id": 32538020,
+                        "name": "Elaine",
+                        "jobPosition": "",
+                        "email": "adm@institutobpastor.org.br",
+                        "phone": "3288021362"
+                    },
+                    {
+                        "id": 32538058,
+                        "name": "Geral - Compras",
+                        "jobPosition": "",
+                        "email": "compras@institutobpastor.org.br",
+                        "phone": "3288021370"
+                    }
+                ],
+                "id": 20034854,
+                "description": "Instituto Bom Pastor"
+            },
+            {
+                "cpfCnpj": "03703636000198",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R ENGENHEIRO JOSE LIUZ AMARANTE, 255, COHAB, SAO JOAO DEL REI, MG, 36.300-195",
+                "latitude": -21.1151,
+                "longitude": -44.22366,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:09:42",
+                "creationDate": "2025-10-06T16:54:17",
+                "contacts": [
+                    {
+                        "id": 32538119,
+                        "name": "Lincoln Moreira - Coordenador de TI",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3197413663"
+                    },
+                    {
+                        "id": 32538254,
+                        "name": "Ranieri - TI Lafaiete",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299056996"
+                    },
+                    {
+                        "id": 32538651,
+                        "name": "Jullye Damasceno - RH Barbacena",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298699513"
+                    },
+                    {
+                        "id": 32538744,
+                        "name": "Jefferson - TI Lavras",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3598802266"
+                    }
+                ],
+                "id": 20034883,
+                "description": "JM Construções Elétricas"
+            },
+            {
+                "cpfCnpj": "57270828000187",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV TRINTA E UM DE MARCO, 685, COLONIA DO MARCAL, SAO JOAO DEL REI, MG, 36.302-016",
+                "latitude": -21.11,
+                "longitude": -44.23603,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:16:33",
+                "creationDate": "2025-10-06T16:55:06",
+                "contacts": [
+                    {
+                        "id": 32538976,
+                        "name": "Rafaelle Ribeiro - Proprietária  ",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298405817"
+                    }
+                ],
+                "id": 20034894,
+                "description": "Jotaelle"
+            },
+            {
+                "cpfCnpj": "21199422000108",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "DT MERCES DE AGUA LIMPA, S\/N, POVOADO CAGENGA - ZONA RURAL, SAO TIAGO, MG, 36.350-000",
+                "latitude": -21.044,
+                "longitude": -44.60365,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T09:11:06",
+                "creationDate": "2025-10-06T16:56:01",
+                "contacts": [
+                    {
+                        "id": 32539147,
+                        "name": "Lili",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299718551"
+                    },
+                    {
+                        "id": 32539159,
+                        "name": "Viviane",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298328308"
+                    }
+                ],
+                "id": 20034904,
+                "description": "JS Construtora e Transporte"
+            },
+            {
+                "cpfCnpj": "39405122000101",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R ALTINO JOSE DE RESENDE, 310, CENTRO, LAGOA DOURADA, MG, 36.345-000",
+                "latitude": -20.9151,
+                "longitude": -44.07184,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:22:03",
+                "creationDate": "2025-10-06T16:57:09",
+                "contacts": [
+                    {
+                        "id": 32539215,
+                        "name": "Geral - Escritório",
+                        "jobPosition": "",
+                        "email": "contato@jscontabilmg.com.br",
+                        "phone": "3234200726"
+                    },
+                    {
+                        "id": 32539289,
+                        "name": "Jeferson Sousa - Proprietário ",
+                        "jobPosition": "",
+                        "email": "contador.jefersonsousa@gmail.com",
+                        "phone": "3299285750"
+                    }
+                ],
+                "id": 20034916,
+                "description": "JS Contábil"
+            },
+            {
+                "cpfCnpj": "09608765000183",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R VEREADOR JOSE MOREIRA DE AQUINO, 25, VILA PORTO REAL, SANTA CRUZ DE MINAS, MG, 36.328-000",
+                "latitude": -21.12006,
+                "longitude": -44.22972,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:22:47",
+                "creationDate": "2025-10-06T16:59:32",
+                "contacts": [
+                    {
+                        "id": 32542297,
+                        "name": "Geral - Financeiro",
+                        "jobPosition": "",
+                        "email": "financeiro@labecomercio.com.br",
+                        "phone": "3288342775"
+                    }
+                ],
+                "id": 20034935,
+                "description": "Labe"
+            },
+            {
+                "cpfCnpj": "19020916000131",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AVENIDA ANDRADE REIS, 51, CENTRO, SAO JOAO DEL REI, MG, 36.307-320",
+                "latitude": -21.13251,
+                "longitude": -44.25665,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:26:16",
+                "creationDate": "2025-10-06T17:02:57",
+                "contacts": [
+                    {
+                        "id": 32542341,
+                        "name": "Iara Amorim",
+                        "jobPosition": "",
+                        "email": "iaraamorimc@yahoo.com.br",
+                        "phone": "3288760304"
+                    }
+                ],
+                "id": 20034965,
+                "description": "Laboratório Dr. Orestes Braga"
+            },
+            {
+                "cpfCnpj": "22777628000130",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV GOVERNADOR MAGALHAES PINTO, 160, CENTRO, SAO TIAGO, MG, 36.350-000",
+                "latitude": -20.90965,
+                "longitude": -44.50795,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T10:14:34",
+                "creationDate": "2025-10-06T17:10:00",
+                "contacts": [
+                    {
+                        "id": 32542545,
+                        "name": "Diogo - Mercês de Água Limpa",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299327789"
+                    },
+                    {
+                        "id": 32542575,
+                        "name": "Geral - São Tiago",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299032527"
+                    }
+                ],
+                "id": 20035218,
+                "description": "Laboratório São Tiago"
+            },
+            {
+                "cpfCnpj": "36976274000168",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV TIRADENTES, 457, CENTRO, SAO JOAO DEL REI, MG, 36.307-346",
+                "latitude": -21.13575,
+                "longitude": -44.25863,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T10:18:34",
+                "creationDate": "2025-10-06T17:12:04",
+                "contacts": [
+                    {
+                        "id": 32542658,
+                        "name": "Geral - Financeiro",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298213573"
+                    },
+                    {
+                        "id": 32542693,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3288118000"
+                    }
+                ],
+                "id": 20035232,
+                "description": "Longatti Imóveis SJDR"
+            },
+            {
+                "cpfCnpj": "14054975000107",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R HENRIQUE BENFENATTI, 200, SAO JUDAS TADEU, SAO JOAO DEL REI, MG, 36.307-042",
+                "latitude": -21.13276,
+                "longitude": -44.24932,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:27:46",
+                "creationDate": "2025-10-06T17:15:28",
+                "contacts": [
+                    {
+                        "id": 32542894,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298243591"
+                    },
+                    {
+                        "id": 32542923,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3291720174"
+                    }
+                ],
+                "id": 20035262,
+                "description": "Maxiloc"
+            },
+            {
+                "cpfCnpj": "22113390000149",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R FREI CANDIDO, 300, FABRICAS, SAO JOAO DEL REI, MG, 36.301-196",
+                "latitude": -21.12479,
+                "longitude": -44.24901,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:30:49",
+                "creationDate": "2025-10-06T17:37:32",
+                "contacts": [
+                    {
+                        "id": 32542941,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3288958840"
+                    }
+                ],
+                "id": 20035418,
+                "description": "Mix Cursos"
+            },
+            {
+                "cpfCnpj": "18469089000103",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R MAJOR JOAQUIM RODRIGUES DE RESENDE, 49, CENTRO, LAGOA DOURADA, MG, 36.345-000",
+                "latitude": -20.91381,
+                "longitude": -44.07518,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:32:21",
+                "creationDate": "2025-10-06T17:40:01",
+                "contacts": [
+                    {
+                        "id": 32542964,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "mlinformaticamg@gmail.com",
+                        "phone": "3299664572"
+                    },
+                    {
+                        "id": 32543056,
+                        "name": "Maxsuel - Proprietário ",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298010901"
+                    }
+                ],
+                "id": 20035438,
+                "description": "ML Informática"
+            },
+            {
+                "cpfCnpj": "15410266000180",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV TRINTA E UM DE MARCO, 202, COLONIA DO MARCAL, SAO JOAO DEL REI, MG, 36.302-016",
+                "latitude": -21.11173,
+                "longitude": -44.23791,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:33:17",
+                "creationDate": "2025-10-06T17:41:56",
+                "contacts": [
+                    {
+                        "id": 32543171,
+                        "name": "Vladmir - TI",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299931312"
+                    }
+                ],
+                "id": 20035451,
+                "description": "Multividros Automotivos"
+            },
+            {
+                "cpfCnpj": "02894156000199",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R AURELIANO MOURAO, 127, CENTRO, SAO JOAO DEL REI, MG, 36.307-334",
+                "latitude": -21.13761,
+                "longitude": -44.26102,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:35:02",
+                "creationDate": "2025-10-06T17:43:43",
+                "contacts": [
+                    {
+                        "id": 32543246,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "faturamentonucleodiagnostico99@gmail.com",
+                        "phone": "3298110186"
+                    }
+                ],
+                "id": 20035460,
+                "description": "Núcleo de Diagnóstico"
+            },
+            {
+                "cpfCnpj": "27150350000190",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV LEITE DE CASTRO, 46, FABRICAS, SAO JOAO DEL REI, MG, 36.301-180",
+                "latitude": -21.12977,
+                "longitude": -44.25044,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:35:32",
+                "creationDate": "2025-10-06T17:45:44",
+                "contacts": [
+                    {
+                        "id": 32543367,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "pop.art.design@hotmail.com",
+                        "phone": "3288922964"
+                    }
+                ],
+                "id": 20035474,
+                "description": "Pop Art"
+            },
+            {
+                "cpfCnpj": "02555374000107",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "LRG DAS FORRAS, 50, CENTRO, TIRADENTES, MG, 36.325-000",
+                "latitude": -21.1103,
+                "longitude": -44.17432,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:36:25",
+                "creationDate": "2025-10-06T17:46:26",
+                "contacts": [
+                    {
+                        "id": 32543402,
+                        "name": "Geral - Financeiro",
+                        "jobPosition": "",
+                        "email": "financeiro@rbgrupo.com.br",
+                        "phone": "3299104980"
+                    },
+                    {
+                        "id": 32543438,
+                        "name": "Geral - Departamento Pessoal",
+                        "jobPosition": "",
+                        "email": "rh@rbgrupo.com.br",
+                        "phone": "3291080718"
+                    }
+                ],
+                "id": 20035479,
+                "description": "Pousada Mãe D’água"
+            },
+            {
+                "cpfCnpj": "43155292000144",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV OITO DE DEZEMBRO, 80, CENTRO, SAO JOAO DEL REI, MG, 36.307-250",
+                "latitude": -21.13464,
+                "longitude": -44.25439,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:37:45",
+                "creationDate": "2025-10-06T17:47:24",
+                "contacts": [
+                    {
+                        "id": 32543540,
+                        "name": "Mariane",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298063621"
+                    }
+                ],
+                "id": 20035484,
+                "description": "Prodige"
+            },
+            {
+                "cpfCnpj": "02210106000730",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV TRINTA E UM DE MARCO, 1480, COLONIA DO MARCAL, SAO JOAO DEL REI, MG, 36.302-016",
+                "latitude": -21.10545,
+                "longitude": -44.22903,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:38:29",
+                "creationDate": "2025-10-06T17:48:06",
+                "contacts": [
+                    {
+                        "id": 32543573,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3291080601"
+                    }
+                ],
+                "id": 20035491,
+                "description": "Racine Tratores - Case"
+            },
+            {
+                "cpfCnpj": "43528954000184",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV TIRADENTES, 389, CENTRO, SAO JOAO DEL REI, MG, 36.307-348",
+                "latitude": -21.13523,
+                "longitude": -44.25793,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:43:57",
+                "creationDate": "2025-10-06T17:49:36",
+                "contacts": [
+                    {
+                        "id": 32543639,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "sandrascardio@gmail.com",
+                        "phone": "3291978626"
+                    },
+                    {
+                        "id": 32543799,
+                        "name": "Geralda - Financeiro",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299902867"
+                    }
+                ],
+                "id": 20035501,
+                "description": "ReyCor"
+            },
+            {
+                "cpfCnpj": "45803635000165",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "PC SEVERIANO DE RESENDE, 88, CENTRO, SAO JOAO DEL REI, MG, 36.300-080",
+                "latitude": -21.13614,
+                "longitude": -44.26139,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:44:37",
+                "creationDate": "2025-10-06T17:50:26",
+                "contacts": [
+                    {
+                        "id": 32543811,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "contato@royalsorrisos.com.br",
+                        "phone": "3299072050"
+                    }
+                ],
+                "id": 20035507,
+                "description": "Royal Sorrisos"
+            },
+            {
+                "cpfCnpj": "24729097000136",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV TIRADENTES, 389, CENTRO, SAO JOAO DEL REI, MG, 36.307-346",
+                "latitude": -21.13523,
+                "longitude": -44.25793,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:50:18",
+                "creationDate": "2025-10-06T17:51:10",
+                "contacts": [
+                    {
+                        "id": 32543830,
+                        "name": "Roni - TI",
+                        "jobPosition": "Principal",
+                        "email": "",
+                        "phone": "3288732754"
+                    },
+                    {
+                        "id": 32543841,
+                        "name": "Juliano - TI",
+                        "jobPosition": "Principal",
+                        "email": "juliano.amorim@santacasadelrei.com.br",
+                        "phone": "3284644434"
+                    },
+                    {
+                        "id": 32543873,
+                        "name": "João Vitor - TI",
+                        "jobPosition": "Secundário ",
+                        "email": "",
+                        "phone": "3284743116"
+                    },
+                    {
+                        "id": 32543914,
+                        "name": "Katharine - Coordenadora do Centro de Imagem",
+                        "jobPosition": "Principal",
+                        "email": "katharine.rodrigues@santacasadelrei.com.br",
+                        "phone": "3299466135"
+                    },
+                    {
+                        "id": 32544009,
+                        "name": "Erica - Centro de Imagem",
+                        "jobPosition": "Secundário ",
+                        "email": "",
+                        "phone": "3288128555"
+                    }
+                ],
+                "id": 20035512,
+                "description": "Santa Casa de SJDR"
+            },
+            {
+                "cpfCnpj": "07121806000187",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R ANTONIO TEIXEIRA DE CARVALHO, 140, ESTACAO, TIRADENTES, MG, 36.325-000",
+                "latitude": -21.11283,
+                "longitude": -44.16878,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:51:59",
+                "creationDate": "2025-10-06T17:51:54",
+                "contacts": [
+                    {
+                        "id": 32544125,
+                        "name": "Geral - Recepção",
+                        "jobPosition": "",
+                        "email": "recepcaosantissimo@gmail.com",
+                        "phone": "3299485831"
+                    },
+                    {
+                        "id": 32544146,
+                        "name": "Geral - Departamento Pessoal",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298018704"
+                    },
+                    {
+                        "id": 32544193,
+                        "name": "Geral - Central de Reservas",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299523744"
+                    }
+                ],
+                "id": 20035517,
+                "description": "Santíssimo Resort"
+            },
+            {
+                "cpfCnpj": "55141027000196",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R PREFEITO ANTONIO DE RESENDE, 88, BELA VISTA, RESENDE COSTA, MG, 36.340-000",
+                "latitude": -20.92089,
+                "longitude": -44.23083,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T15:57:26",
+                "creationDate": "2025-10-06T17:52:50",
+                "contacts": [
+                    {
+                        "id": 32544285,
+                        "name": "Djalma - Proprietário ",
+                        "jobPosition": "",
+                        "email": "djalmasinetto@yahoo.com.br",
+                        "phone": "3288080270"
+                    },
+                    {
+                        "id": 32544293,
+                        "name": "Ligia",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299923553"
+                    }
+                ],
+                "id": 20035523,
+                "description": "Sene Supermercados"
+            },
+            {
+                "cpfCnpj": "03677840000181",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "ROD BR-383, SN, CESAR DE PINA, TIRADENTES, MG, 36.325-000",
+                "latitude": -21.11172,
+                "longitude": -44.16885,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T16:04:24",
+                "creationDate": "2025-10-06T17:53:37",
+                "contacts": [
+                    {
+                        "id": 32544323,
+                        "name": "Luiz - TI",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3291933532"
+                    },
+                    {
+                        "id": 32562162,
+                        "name": "Geral - Financeiro",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298423030"
+                    }
+                ],
+                "id": 20035527,
+                "description": "Silverado Mineração SA"
+            },
+            {
+                "cpfCnpj": "32237610000108",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R GETULIO VARGAS, 379, CENTRO, SANTA CRUZ DE MINAS, MG, 36.328-000",
+                "latitude": -21.11738,
+                "longitude": -44.21748,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T16:01:58",
+                "creationDate": "2025-10-06T17:54:31",
+                "contacts": [
+                    {
+                        "id": 32544402,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3288786259"
+                    },
+                    {
+                        "id": 32544438,
+                        "name": "Wesley Alves - Proprietário ",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299691925"
+                    }
+                ],
+                "id": 20035532,
+                "description": "Somar Indústria e Comércio"
+            },
+            {
+                "cpfCnpj": "20916057000142",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R MINISTRO GABRIEL PASSOS, 300, CENTRO, SAO JOAO DEL REI, MG, 36.307-330",
+                "latitude": -21.13674,
+                "longitude": -44.25926,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T16:04:33",
+                "creationDate": "2025-10-06T17:55:11",
+                "contacts": [
+                    {
+                        "id": 32544466,
+                        "name": "Jonatha",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3288059425"
+                    },
+                    {
+                        "id": 32544476,
+                        "name": "Eder - Proprietário",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3284884867"
+                    }
+                ],
+                "id": 20035536,
+                "description": "Somatori Soluções Contábeis"
+            },
+            {
+                "cpfCnpj": "24417390000168",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV LEITE DE CASTRO, 708, FABRICAS, SAO JOAO DEL REI, MG, 36.301-180",
+                "latitude": -21.12444,
+                "longitude": -44.24776,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T16:04:58",
+                "creationDate": "2025-10-06T17:55:47",
+                "contacts": [
+                    {
+                        "id": 32544493,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "speakupsjdr@gmail.com",
+                        "phone": "3291237451"
+                    }
+                ],
+                "id": 20035540,
+                "description": "Speak Up"
+            },
+            {
+                "cpfCnpj": "11078678000960",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "AV TRINTA E UM DE MARCO, 1000, COLONIA DO MARCAL, SAO JOAO DEL REI, MG, 36.302-016",
+                "latitude": -21.10774,
+                "longitude": -44.23207,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T11:04:15",
+                "creationDate": "2025-10-06T17:56:38",
+                "contacts": [
+                    {
+                        "id": 32544528,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3298165902"
+                    },
+                    {
+                        "id": 32544563,
+                        "name": "Nicolas",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299151105"
+                    }
+                ],
+                "id": 20035543,
+                "description": "Triama - LS Tractor"
+            },
+            {
+                "cpfCnpj": "56221008000132",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R ENGENHEIRO JOSE LUIZ AMARANTE, 191, COHAB, SAO JOAO DEL REI, MG, 36.302-180",
+                "latitude": -21.11502,
+                "longitude": -44.22397,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-08T16:06:54",
+                "creationDate": "2025-10-06T17:57:38",
+                "contacts": [
+                    {
+                        "id": 32544615,
+                        "name": "Geral - Financeiro",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299967070"
+                    },
+                    {
+                        "id": 32544632,
+                        "name": "Vânia",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299992224"
+                    },
+                    {
+                        "id": 32544641,
+                        "name": "Douglas - Proprietário",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3284333933"
+                    },
+                    {
+                        "id": 32544674,
+                        "name": "Geral - Tesouraria",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3284536695"
+                    }
+                ],
+                "id": 20035550,
+                "description": "Zanfas Alimentos"
+            },
+            {
+                "cpfCnpj": "08183088694",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "R. PAULO FREITAS, 234 - CENTRO, SÃO JOÃO DEL REI - MG, 36301-004",
+                "latitude": 0,
+                "longitude": 0,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-10T16:33:43",
+                "creationDate": "2025-10-10T11:17:07",
+                "contacts": [
+                    {
+                        "id": 32687298,
+                        "name": "Caio - Proprietário ",
+                        "jobPosition": "",
+                        "email": "caiocesar@santosebahense.com.br",
+                        "phone": "3291979146"
+                    },
+                    {
+                        "id": 32687471,
+                        "name": "Geral - Atendimento",
+                        "jobPosition": "",
+                        "email": "",
+                        "phone": "3299260771"
+                    }
+                ],
+                "id": 20148508,
+                "description": "Santos & Bahense"
+            },
+            {
+                "cpfCnpj": "10273587641",
+                "externalId": "",
+                "phoneNumber": [],
+                "email": [],
+                "manager": "",
+                "note": "",
+                "address": "",
+                "latitude": 0,
+                "longitude": 0,
+                "maximumVisitTime": 1,
+                "unitMaximumTime": 3,
+                "groupsId": [],
+                "managerTeamsId": [],
+                "managersId": [
+                    209809
+                ],
+                "uriAttachments": [],
+                "segmentId": 0,
+                "active": true,
+                "adressComplement": "",
+                "dateLastUpdate": "2025-10-10T16:25:12",
+                "creationDate": "2025-10-10T16:24:35",
+                "contacts": [],
+                "id": 20152622,
+                "description": "Rei do Celular"
+            }
+        ]
+    }
+}

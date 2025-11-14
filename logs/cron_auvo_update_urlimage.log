@@ -1,0 +1,511 @@
+[11/11/2025 15:21:46][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[ERROR][PATCH] id=5165738 modelo='Brother ADS-2800W' http=400 resp={"message":"Bad request","target":"","errorCode":1,"errors":["The target location specified by path segment 'urlImage' was not found."]}
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5166574)
+[11/11/2025 15:21:47][DONE] Total=6 | Matched=1 | Patched=0 | Skip(noImage)=5 | Skip(igual)=0 | Errors=1
+[11/11/2025 15:23:33][RUN] Iniciando atualização de urlImage…
+[11/11/2025 15:24:24][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:25:09][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:26:30][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:26:40][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:26:59][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:27:47][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:27:54][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:28:04][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:28:47][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:31:04][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:50:59][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[11/11/2025 15:51:21][RUN] Iniciando atualização de urlImage…
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M4070FR' (id=5029578)
+[SKIP] Sem imageBase64 no catálogo para modelo='EPSON FX-890' (id=5041033)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 377SFNwX' (id=5163572)
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5165732)
+[OK][PATCH] id=5165738 modelo='Brother ADS-2800W' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='RICOH SP 4510SF' (id=5166574)
+[11/11/2025 15:51:22][DONE] Total=6 | Matched=1 | Patched=1 | Skip(noImage)=5 | Skip(igual)=0 | Errors=0
+[11/11/2025 15:54:42][RUN] Iniciando atualização de urlImage…
+[OK][PATCH] id=5029578 modelo='Samsung SL-M4070FR' -> urlImage atualizado.
+[OK][PATCH] id=5041033 modelo='EPSON FX-890' -> urlImage atualizado.
+[OK][PATCH] id=5163572 modelo='RICOH SP 377SFNwX' -> urlImage atualizado.
+[OK][PATCH] id=5165732 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5165738 modelo='Brother ADS-2800W' -> urlImage atualizado.
+[OK][PATCH] id=5166574 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[11/11/2025 15:55:08][DONE] Total=6 | Matched=6 | Patched=6 | Skip(noImage)=0 | Skip(igual)=0 | Errors=0
+[12/11/2025 21:09:50][RUN] Iniciando atualização de urlImage…
+[OK][PATCH] id=5029578 modelo='Samsung SL-M4070FR' -> urlImage atualizado.
+[OK][PATCH] id=5041033 modelo='EPSON FX-890' -> urlImage atualizado.
+[OK][PATCH] id=5163572 modelo='RICOH SP 377SFNwX' -> urlImage atualizado.
+[OK][PATCH] id=5165732 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5165738 modelo='Brother ADS-2800W' -> urlImage atualizado.
+[OK][PATCH] id=5166574 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194631 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194632 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194633 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194634 modelo='RICOH Aficio SP 3500N' -> urlImage atualizado.
+[OK][PATCH] id=5194635 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194636 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194637 modelo='RICOH Aficio SP 3500N' -> urlImage atualizado.
+[OK][PATCH] id=5194638 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194639 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194640 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194641 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194642 modelo='RICOH Aficio SP 3500SF' -> urlImage atualizado.
+[OK][PATCH] id=5194643 modelo='RICOH Aficio SP 3500SF' -> urlImage atualizado.
+[OK][PATCH] id=5194644 modelo='RICOH Aficio SP 3500SF' -> urlImage atualizado.
+[OK][PATCH] id=5194645 modelo='RICOH Aficio SP 3500SF' -> urlImage atualizado.
+[OK][PATCH] id=5194646 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194647 modelo='RICOH Aficio SP 3500SF' -> urlImage atualizado.
+[OK][PATCH] id=5194648 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194649 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194650 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194651 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194652 modelo='Samsung SL-M4070FR' -> urlImage atualizado.
+[OK][PATCH] id=5194653 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194654 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194655 modelo='EPSON FX-890' -> urlImage atualizado.
+[OK][PATCH] id=5194656 modelo='Brother MFC-J6510DW' -> urlImage atualizado.
+[OK][PATCH] id=5194657 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194658 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194659 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194660 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194661 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194662 modelo='Brother MFC-8890DW' -> urlImage atualizado.
+[OK][PATCH] id=5194663 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194664 modelo='Samsung SL-M4070FR' -> urlImage atualizado.
+[OK][PATCH] id=5194665 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194666 modelo='Samsung SL-M4070FR' -> urlImage atualizado.
+[OK][PATCH] id=5194667 modelo='Samsung SL-M4070FR' -> urlImage atualizado.
+[OK][PATCH] id=5194668 modelo='Samsung SL-M4070FR' -> urlImage atualizado.
+[OK][PATCH] id=5194669 modelo='RICOH Aficio SP 3500SF' -> urlImage atualizado.
+[OK][PATCH] id=5194670 modelo='RICOH Aficio SP 3500SF' -> urlImage atualizado.
+[OK][PATCH] id=5194671 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194672 modelo='RICOH Aficio SP 3500SF' -> urlImage atualizado.
+[OK][PATCH] id=5194673 modelo='Samsung SL-M4070FR' -> urlImage atualizado.
+[OK][PATCH] id=5194674 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194675 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194676 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194677 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194678 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194679 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194680 modelo='EPSON L1455' -> urlImage atualizado.
+[OK][PATCH] id=5194681 modelo='Brother ADS-2800W' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='Brother DCP-9020CDN' (id=5194682)
+[OK][PATCH] id=5194683 modelo='Xerox AltaLink C8030' -> urlImage atualizado.
+[OK][PATCH] id=5194684 modelo='HONEYWELL PC42T' -> urlImage atualizado.
+[OK][PATCH] id=5194685 modelo='HP OfficeJet 7740' -> urlImage atualizado.
+[OK][PATCH] id=5194686 modelo='RICOH SP 3710SF' -> urlImage atualizado.
+[OK][PATCH] id=5194687 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194688 modelo='HP LaserJet P1102w' -> urlImage atualizado.
+[OK][PATCH] id=5194689 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194690 modelo='Xerox AltaLink C8030' -> urlImage atualizado.
+[OK][PATCH] id=5194691 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194692 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194693 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194694 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194695 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194696 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194697 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194698 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194699 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194700 modelo='Samsung M332x 382x 402x' -> urlImage atualizado.
+[OK][PATCH] id=5194701 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194702 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194703 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194704 modelo='HONEYWELL PC42T' -> urlImage atualizado.
+[OK][PATCH] id=5194705 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194706 modelo='RICOH SP 377SFNwX' -> urlImage atualizado.
+[OK][PATCH] id=5194707 modelo='HP OfficeJet 7740' -> urlImage atualizado.
+[OK][PATCH] id=5194708 modelo='RICOH SP 3710SF' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SL-M3375FD' (id=5194709)
+[OK][PATCH] id=5194710 modelo='Samsung SL-M4075FR' -> urlImage atualizado.
+[OK][PATCH] id=5194711 modelo='Samsung SL-M4075FR' -> urlImage atualizado.
+[OK][PATCH] id=5194712 modelo='Samsung SL-M4075FR' -> urlImage atualizado.
+[OK][PATCH] id=5194713 modelo='Samsung SL-M4075FR' -> urlImage atualizado.
+[OK][PATCH] id=5194714 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5194715 modelo='Samsung SL-M4075FR' -> urlImage atualizado.
+[OK][PATCH] id=5194716 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5194717 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5194718 modelo='Samsung SL-M4075FR' -> urlImage atualizado.
+[OK][PATCH] id=5194719 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5194720 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5194721 modelo='Samsung SL-M4075FR' -> urlImage atualizado.
+[OK][PATCH] id=5194722 modelo='HP LaserJet P1102w' -> urlImage atualizado.
+[OK][PATCH] id=5194723 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5194724 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5194725 modelo='Xerox Phaser 7800DX' -> urlImage atualizado.
+[OK][PATCH] id=5194726 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194727 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194728 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194729 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194730 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194731 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194732 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194733 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5194734 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194735 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194736 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194737 modelo='RICOH Aficio SP 3500N' -> urlImage atualizado.
+[OK][PATCH] id=5194738 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194739 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SCX-5835_5935X' (id=5194740)
+[SKIP] Sem imageBase64 no catálogo para modelo='Samsung SCX-5835_5935X' (id=5194741)
+[SKIP] Sem imageBase64 no catálogo para modelo='Zebra STRIPE S4M' (id=5194742)
+[OK][PATCH] id=5194743 modelo='HP OfficeJet 7740' -> urlImage atualizado.
+[OK][PATCH] id=5194744 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194745 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194746 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194747 modelo='Lexmark C950' -> urlImage atualizado.
+[OK][PATCH] id=5194748 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194749 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194750 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194751 modelo='EPSON L6190' -> urlImage atualizado.
+[OK][PATCH] id=5194752 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194753 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194754 modelo='Xerox WorkCentre 7835' -> urlImage atualizado.
+[OK][PATCH] id=5194755 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194756 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194757 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194758 modelo='EPSON L6190' -> urlImage atualizado.
+[OK][PATCH] id=5194759 modelo='EPSON L6190' -> urlImage atualizado.
+[OK][PATCH] id=5194760 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194761 modelo='Brother MFC-J6935DW' -> urlImage atualizado.
+[OK][PATCH] id=5194762 modelo='Xerox WorkCentre 7835' -> urlImage atualizado.
+[OK][PATCH] id=5194763 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194764 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194765 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194766 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194767 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194768 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194769 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194770 modelo='Brother MFC-J6935DW' -> urlImage atualizado.
+[OK][PATCH] id=5194771 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194772 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194773 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194774 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194775 modelo='Brother MFC-J6935DW' -> urlImage atualizado.
+[OK][PATCH] id=5194776 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194777 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194778 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194779 modelo='Brother MFC-J6935DW' -> urlImage atualizado.
+[OK][PATCH] id=5194780 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194781 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194782 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194783 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194784 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194785 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194786 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194788 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194789 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194790 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194791 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194792 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194793 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194794 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194795 modelo='Elgin L42' -> urlImage atualizado.
+[OK][PATCH] id=5194796 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194797 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194798 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194799 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194800 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194801 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194802 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194803 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194804 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194805 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194806 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194807 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194808 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194809 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194810 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194811 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194812 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194813 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194814 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='Gprinter GP-3200TLA' (id=5194815)
+[OK][PATCH] id=5194816 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194817 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194818 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194819 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194820 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194821 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194822 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194823 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194824 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194825 modelo='Brother MFC-J6935DW' -> urlImage atualizado.
+[OK][PATCH] id=5194826 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194827 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194828 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194829 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194830 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194831 modelo='HONEYWELL PC42T' -> urlImage atualizado.
+[OK][PATCH] id=5194832 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194833 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194834 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194835 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194836 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194837 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194838 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194839 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194840 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194841 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194842 modelo='EPSON L1455' -> urlImage atualizado.
+[OK][PATCH] id=5194843 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194844 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194845 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194846 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194847 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194848 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194849 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194850 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194851 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194852 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194853 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194854 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194855 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194856 modelo='EPSON L3250' -> urlImage atualizado.
+[OK][PATCH] id=5194857 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194858 modelo='Elgin L42' -> urlImage atualizado.
+[OK][PATCH] id=5194859 modelo='Elgin L42' -> urlImage atualizado.
+[OK][PATCH] id=5194860 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194861 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194862 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194863 modelo='EPSON L1455' -> urlImage atualizado.
+[OK][PATCH] id=5194864 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194865 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194866 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194867 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194868 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194869 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194870 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194871 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194872 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194873 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194874 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194875 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194876 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194877 modelo='Xerox AltaLink C8035' -> urlImage atualizado.
+[OK][PATCH] id=5194878 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194879 modelo='EPSON L3250' -> urlImage atualizado.
+[OK][PATCH] id=5194880 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194881 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='HP LaserJet CP 1025nw' (id=5194882)
+[OK][PATCH] id=5194883 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194884 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194885 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='HP LaserJet CP 1025nw' (id=5194886)
+[OK][PATCH] id=5194887 modelo='EPSON L6270' -> urlImage atualizado.
+[OK][PATCH] id=5194888 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194889 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194890 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194891 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194892 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194893 modelo='HONEYWELL PC42T' -> urlImage atualizado.
+[OK][PATCH] id=5194894 modelo='EPSON L1455' -> urlImage atualizado.
+[OK][PATCH] id=5194895 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194896 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194897 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194898 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194899 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194900 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194901 modelo='EPSON L1455' -> urlImage atualizado.
+[OK][PATCH] id=5194902 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194903 modelo='EPSON L1455' -> urlImage atualizado.
+[OK][PATCH] id=5194904 modelo='EPSON L6270' -> urlImage atualizado.
+[OK][PATCH] id=5194905 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194906 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194907 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194908 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194909 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194910 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194911 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194912 modelo='HP Designjet T120' -> urlImage atualizado.
+[OK][PATCH] id=5194913 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194914 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194915 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194916 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194917 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194918 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5194919 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194920 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194921 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194922 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194923 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194924 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194925 modelo='Gainscha GS-2208D' -> urlImage atualizado.
+[OK][PATCH] id=5194926 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194927 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194928 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194929 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194930 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194931 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194932 modelo='EPSON L6270' -> urlImage atualizado.
+[OK][PATCH] id=5194933 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194934 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194935 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194936 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194937 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194938 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194939 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194940 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194941 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194942 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194943 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194944 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194945 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194946 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194947 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194948 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194949 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194950 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194951 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194952 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194953 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194954 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194955 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194956 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194957 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194958 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194959 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194960 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194961 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194962 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194963 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194964 modelo='EPSON L3250' -> urlImage atualizado.
+[OK][PATCH] id=5194965 modelo='RICOH SP 5300' -> urlImage atualizado.
+[OK][PATCH] id=5194966 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194967 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5194968 modelo='EPSON L3250' -> urlImage atualizado.
+[OK][PATCH] id=5194969 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194970 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194971 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194972 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5194973 modelo='Samsung SL-M4075FR' -> urlImage atualizado.
+[OK][PATCH] id=5194974 modelo='Samsung SL-M4075FR' -> urlImage atualizado.
+[OK][PATCH] id=5194975 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194976 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194977 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194978 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194979 modelo='EPSON L6270' -> urlImage atualizado.
+[OK][PATCH] id=5194980 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194981 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194982 modelo='Samsung SL-M4020ND' -> urlImage atualizado.
+[OK][PATCH] id=5194983 modelo='Samsung SL-M4070FR' -> urlImage atualizado.
+[OK][PATCH] id=5194984 modelo='EPSON L3250' -> urlImage atualizado.
+[OK][PATCH] id=5194985 modelo='Xerox WorkCentre 7845' -> urlImage atualizado.
+[OK][PATCH] id=5194986 modelo='EPSON L1455' -> urlImage atualizado.
+[OK][PATCH] id=5194987 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194988 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194989 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194990 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194991 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194992 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194993 modelo='Xerox WorkCentre 7855' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='Zebra ZT231' (id=5194994)
+[OK][PATCH] id=5194995 modelo='HP Designjet T120' -> urlImage atualizado.
+[OK][PATCH] id=5194996 modelo='RICOH SP 377SFNwX' -> urlImage atualizado.
+[OK][PATCH] id=5194997 modelo='RICOH MP 501' -> urlImage atualizado.
+[OK][PATCH] id=5194998 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5194999 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195000 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195001 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='Zebra ZT231' (id=5195002)
+[OK][PATCH] id=5195003 modelo='Xerox WorkCentre 7845' -> urlImage atualizado.
+[OK][PATCH] id=5195004 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195005 modelo='EPSON L3250' -> urlImage atualizado.
+[OK][PATCH] id=5195006 modelo='Xerox AltaLink C8070' -> urlImage atualizado.
+[OK][PATCH] id=5195007 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5195008 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5195009 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5195010 modelo='EPSON L3250' -> urlImage atualizado.
+[OK][PATCH] id=5195011 modelo='Xerox AltaLink C8070' -> urlImage atualizado.
+[OK][PATCH] id=5195012 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195013 modelo='Elgin L42' -> urlImage atualizado.
+[OK][PATCH] id=5195014 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5195015 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195016 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195017 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5195018 modelo='Datamax E-CLASS MARK III E4205A' -> urlImage atualizado.
+[OK][PATCH] id=5195019 modelo='EPSON L1455' -> urlImage atualizado.
+[OK][PATCH] id=5195020 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195021 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195022 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195023 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195024 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5195025 modelo='Xerox AltaLink C8035' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='Brother MFC-T4500DW' (id=5195026)
+[OK][PATCH] id=5195027 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195028 modelo='Elgin L42' -> urlImage atualizado.
+[OK][PATCH] id=5195029 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195030 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195031 modelo='Samsung M4080FX' -> urlImage atualizado.
+[OK][PATCH] id=5195032 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195033 modelo='Samsung M4080FX' -> urlImage atualizado.
+[OK][PATCH] id=5195034 modelo='RICOH SP 4510DN' -> urlImage atualizado.
+[OK][PATCH] id=5195035 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195036 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195037 modelo='RICOH Aficio SP 3510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195038 modelo='Samsung M4080FX' -> urlImage atualizado.
+[OK][PATCH] id=5195039 modelo='Xerox WorkCentre 7835' -> urlImage atualizado.
+[OK][PATCH] id=5195040 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195041 modelo='RICOH Aficio SP 3500SF' -> urlImage atualizado.
+[OK][PATCH] id=5195042 modelo='EPSON L6270' -> urlImage atualizado.
+[OK][PATCH] id=5195043 modelo='Samsung ML-371x' -> urlImage atualizado.
+[OK][PATCH] id=5195044 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195045 modelo='Lexmark X954' -> urlImage atualizado.
+[SKIP] Sem imageBase64 no catálogo para modelo='Brother HL-L6412DW' (id=5195046)
+[OK][PATCH] id=5195047 modelo='EPSON L5590' -> urlImage atualizado.
+[OK][PATCH] id=5195048 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195049 modelo='Brother ADS-2800W' -> urlImage atualizado.
+[OK][PATCH] id=5195050 modelo='EPSON L8050' -> urlImage atualizado.
+[OK][PATCH] id=5195051 modelo='RICOH SP 4510SF' -> urlImage atualizado.
+[OK][PATCH] id=5195052 modelo='HP LaserJet P1102w' -> urlImage atualizado.
+[OK][PATCH] id=5195053 modelo='RICOH Aficio SP 3510DN' -> urlImage atualizado.
+[OK][PATCH] id=5195054 modelo='Samsung M4080FX' -> urlImage atualizado.
+[12/11/2025 21:18:25][DONE] Total=429 | Matched=417 | Patched=417 | Skip(noImage)=12 | Skip(igual)=0 | Errors=0

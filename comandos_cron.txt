@@ -1,0 +1,34 @@
+Impressoras PW
+php C:\Projetos\recart\cron\cron_printwayy_printers.php
+
+Suprimentos PW
+php C:\Projetos\recart\cron\cron_printwayy_supplies.php
+
+Contadores PW
+php C:\Projetos\recart\cron\cron_printwayy_counters.php
+
+Equipamentos Auvo
+php C:\Projetos\recart\cron\cron_auvo_equipments.php
+
+Clientes Auvo
+php C:\Projetos\recart\cron\cron_auvo_clients.php
+
+Categorias Auvo
+php C:\Projetos\recart\cron\cron_auvo_categories.php
+
+Diff PW -Auvo
+php C:\Projetos\recart\cron\cron_build_sync_payloads.php
+
+Novas impressoras
+php C:\Projetos\recart\cron\cron_auvo_upload_post.php
+
+Atualizar impressoras
+php C:\Projetos\recart\cron\cron_auvo_upload_patch.php
+
+
+
+Atualizar Imagens
+php C:\Projetos\recart\cron\cron_auvo_update_urlimage.php
+
+Verificar impressoras existentes no auvo e não existem no printwayy/ 1 vez ao dia
+php C:\Projetos\recart\cron\cron_check_auvo_vs_printwayy.php

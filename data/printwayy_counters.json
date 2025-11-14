@@ -1,0 +1,4746 @@
+{
+    "meta": {
+        "source": "printwayy_counters",
+        "fetched_at": "13\/11\/2025 19:29:41",
+        "count": 335
+    },
+    "data": {
+        "count": 335,
+        "data": [
+            {
+                "printerId": "b6d6daa0-5de2-486a-8705-34415ab1c360",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:06:54.073Z",
+                        "totalCount": 297694
+                    }
+                ]
+            },
+            {
+                "printerId": "7fac8a19-166d-4a07-b42f-c448312ec0bd",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:16:11.917Z",
+                        "totalCount": 122036
+                    }
+                ]
+            },
+            {
+                "printerId": "1eedac02-d729-42cc-9b90-1d7ba7b7d0fb",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-06T17:20:29.267Z",
+                        "totalCount": 34510
+                    }
+                ]
+            },
+            {
+                "printerId": "f2c5ae79-bc04-4d6d-aa79-f35018d3d7cd",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:06:54.073Z",
+                        "totalCount": 156261
+                    }
+                ]
+            },
+            {
+                "printerId": "1aabf4f6-f67d-4ec5-8d71-77fb578d6675",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:02.403Z",
+                        "totalCount": 269616
+                    }
+                ]
+            },
+            {
+                "printerId": "f6f47fe4-8d25-45c2-9c21-bb1b2dd0220e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:59:00.183Z",
+                        "totalCount": 125641
+                    }
+                ]
+            },
+            {
+                "printerId": "b75616b8-fb50-4f9b-8d7e-93b173edf9b1",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:03.667Z",
+                        "totalCount": 58524
+                    }
+                ]
+            },
+            {
+                "printerId": "995b513e-28ae-4781-8778-8cf6cf67080c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:09:43.827Z",
+                        "totalCount": 135840
+                    }
+                ]
+            },
+            {
+                "printerId": "c59c5e35-270e-47ed-8493-4e501cc33435",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:09:43.980Z",
+                        "totalCount": 619728
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:09:43.980Z",
+                        "totalCount": 30878
+                    }
+                ]
+            },
+            {
+                "printerId": "5925ffe4-836c-449e-9a8f-6f2da9453bca",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:15:42.047Z",
+                        "totalCount": 487429
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:15:42.050Z",
+                        "totalCount": 2968
+                    }
+                ]
+            },
+            {
+                "printerId": "707cd3d6-3e5f-4da0-9d8f-21e6e9738c2a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:09:43.540Z",
+                        "totalCount": 419391
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:09:43.590Z",
+                        "totalCount": 7777
+                    }
+                ]
+            },
+            {
+                "printerId": "174ea05f-76e9-460e-b753-c3e41a88113a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:40:30.583Z",
+                        "totalCount": 15158
+                    }
+                ]
+            },
+            {
+                "printerId": "13c849f3-1375-4642-ba35-20602c718520",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:16:03.577Z",
+                        "totalCount": 224808
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:16:03.610Z",
+                        "totalCount": 11896
+                    }
+                ]
+            },
+            {
+                "printerId": "dcd0c3c8-f615-49b4-9a55-0abee8232d4e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:06:54.073Z",
+                        "totalCount": 114376
+                    }
+                ]
+            },
+            {
+                "printerId": "d5702b01-1a3d-4ac7-910e-5870ae694495",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:02:10.103Z",
+                        "totalCount": 63549
+                    }
+                ]
+            },
+            {
+                "printerId": "07707db1-1874-438f-beca-081481eb1749",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-10-29T10:36:58.520Z",
+                        "totalCount": 300889
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-10-29T10:36:58.587Z",
+                        "totalCount": 15289
+                    }
+                ]
+            },
+            {
+                "printerId": "edf568f1-1e5d-4d50-9b36-281b66fb66bc",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:46:13.810Z",
+                        "totalCount": 99968
+                    }
+                ]
+            },
+            {
+                "printerId": "ca14ad16-8839-4f8d-adb5-03a918f861f4",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:12:24.093Z",
+                        "totalCount": 65069
+                    }
+                ]
+            },
+            {
+                "printerId": "1487008a-c885-4ede-a428-662c1e1992bc",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:16:15.117Z",
+                        "totalCount": 312955
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:16:15.180Z",
+                        "totalCount": 10718
+                    }
+                ]
+            },
+            {
+                "printerId": "8c442937-6b8c-43ca-aa02-e7b184747728",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:57:54.563Z",
+                        "totalCount": 267060
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:57:54.633Z",
+                        "totalCount": 1206
+                    }
+                ]
+            },
+            {
+                "printerId": "18c1af75-a303-4006-9e1a-fdf3bf7e7726",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:02.543Z",
+                        "totalCount": 33872
+                    }
+                ]
+            },
+            {
+                "printerId": "92bdf0f0-6d60-4167-a469-4e953c69fa89",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:54:35.123Z",
+                        "totalCount": 204056
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:54:35.193Z",
+                        "totalCount": 808
+                    }
+                ]
+            },
+            {
+                "printerId": "197d7eff-1a4a-440b-afab-3fde126377af",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:17:48.563Z",
+                        "totalCount": 22701
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:17:48.727Z",
+                        "totalCount": 135
+                    }
+                ]
+            },
+            {
+                "printerId": "39f111ff-d223-40bb-95dd-06381d0c9bc9",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-12T14:48:59.203Z",
+                        "totalCount": 184458
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-12T14:48:59.203Z",
+                        "totalCount": 4722
+                    }
+                ]
+            },
+            {
+                "printerId": "82859d48-aa29-4d82-9200-41c28745bf07",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:24:09.110Z",
+                        "totalCount": 375756
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:24:09.113Z",
+                        "totalCount": 18616
+                    }
+                ]
+            },
+            {
+                "printerId": "186a43ae-c839-4545-91ce-8e4c3df9f347",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:06:42.517Z",
+                        "totalCount": 11542
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:06:42.517Z",
+                        "totalCount": 2053
+                    }
+                ]
+            },
+            {
+                "printerId": "f9baa243-70bd-494d-96ad-9bfbc7435b79",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:03.683Z",
+                        "totalCount": 317819
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:29:03.713Z",
+                        "totalCount": 1821
+                    }
+                ]
+            },
+            {
+                "printerId": "1a0aaaa5-aec9-43b2-a936-d2a175dff912",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:06:54.073Z",
+                        "totalCount": 155550
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:06:54.097Z",
+                        "totalCount": 4489
+                    }
+                ]
+            },
+            {
+                "printerId": "bc3f7bda-e101-4bce-aa20-d5f0c940405c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:51:13.830Z",
+                        "totalCount": 267623
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:51:13.860Z",
+                        "totalCount": 8448
+                    }
+                ]
+            },
+            {
+                "printerId": "749a14f0-eb9a-4318-a2b4-ae96f31c794d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:17:01.617Z",
+                        "totalCount": 123683
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:17:01.650Z",
+                        "totalCount": 796
+                    }
+                ]
+            },
+            {
+                "printerId": "66ac7754-311c-40ca-bc52-a4956afcc452",
+                "counters": [
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:46:19.650Z",
+                        "totalCount": 110941
+                    }
+                ]
+            },
+            {
+                "printerId": "c7eb7f2f-f384-4afb-bd5a-018f53a3f0d2",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:17:58.387Z",
+                        "totalCount": 54866
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T15:17:58.450Z",
+                        "totalCount": 145289
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:17:58.467Z",
+                        "totalCount": 5846
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T15:17:58.467Z",
+                        "totalCount": 3814
+                    }
+                ]
+            },
+            {
+                "printerId": "1f0695a5-3728-4f05-9a77-b0483f329992",
+                "counters": [
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-12T16:15:15.437Z",
+                        "totalCount": 57046
+                    }
+                ]
+            },
+            {
+                "printerId": "05782cac-38de-4c03-af26-dc391e39ca0f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-10-21T12:11:43.143Z",
+                        "totalCount": 478
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-10-21T12:11:43.143Z",
+                        "totalCount": 129633
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-10-21T12:11:43.150Z",
+                        "totalCount": 57
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-10-21T12:11:43.150Z",
+                        "totalCount": 102471
+                    }
+                ]
+            },
+            {
+                "printerId": "3d3798eb-48c4-41fb-8dcd-647ed46a56ce",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:39.273Z",
+                        "totalCount": 8718
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T16:46:39.273Z",
+                        "totalCount": 31025
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:40.013Z",
+                        "totalCount": 7689
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:46:39.287Z",
+                        "totalCount": 4466
+                    }
+                ]
+            },
+            {
+                "printerId": "344301b7-bafb-4a91-8302-2244ff29307e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:05:06.770Z",
+                        "totalCount": 174248
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:05:06.867Z",
+                        "totalCount": 5885
+                    }
+                ]
+            },
+            {
+                "printerId": "ac9eb17d-67ac-4e41-a88e-bda3a579dd5a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:56:45.370Z",
+                        "totalCount": 70715
+                    }
+                ]
+            },
+            {
+                "printerId": "5c5b396d-e7b5-47b2-9a80-c724e75196e1",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:38:02.897Z",
+                        "totalCount": 10263
+                    }
+                ]
+            },
+            {
+                "printerId": "997bbfed-0ac3-453d-bd86-3934fb971d58",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:15:30.713Z",
+                        "totalCount": 54699
+                    }
+                ]
+            },
+            {
+                "printerId": "294b00f0-021d-4247-b048-c67683248952",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-12T14:48:59.203Z",
+                        "totalCount": 2929
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-12T14:48:59.203Z",
+                        "totalCount": 64252
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-12T14:48:59.203Z",
+                        "totalCount": 38
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-12T14:48:59.203Z",
+                        "totalCount": 5394
+                    }
+                ]
+            },
+            {
+                "printerId": "8a9fdaa7-8aba-4a75-9afd-0cee1500806e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:06:42.103Z",
+                        "totalCount": 68297
+                    }
+                ]
+            },
+            {
+                "printerId": "414bc1e8-4439-4db2-939a-b27751752a6b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.870Z",
+                        "totalCount": 81678
+                    }
+                ]
+            },
+            {
+                "printerId": "ff65fe1b-5c39-4ada-96bb-77d73381e4ec",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:07:28.533Z",
+                        "totalCount": 93809
+                    }
+                ]
+            },
+            {
+                "printerId": "189fcf3d-0c81-410b-aaec-4ebe71431fd6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.587Z",
+                        "totalCount": 64258
+                    }
+                ]
+            },
+            {
+                "printerId": "dd03d023-7e0c-4495-9054-f4e0e5b66063",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:54:19.660Z",
+                        "totalCount": 164924
+                    }
+                ]
+            },
+            {
+                "printerId": "87b1e073-3778-444d-89f0-b384f56db0d7",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:57:42.117Z",
+                        "totalCount": 54794
+                    }
+                ]
+            },
+            {
+                "printerId": "dba89b64-26eb-41d6-9cae-c57852b28647",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:09:49.613Z",
+                        "totalCount": 76756
+                    }
+                ]
+            },
+            {
+                "printerId": "3f79dadf-6c8c-43cb-84d5-95c14cf00a22",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:15:35.617Z",
+                        "totalCount": 70628
+                    }
+                ]
+            },
+            {
+                "printerId": "dd7e042b-22da-45ff-aa22-8f4418195cb1",
+                "counters": []
+            },
+            {
+                "printerId": "31d44be5-3b00-4f1c-906a-552b06345268",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:06:40.033Z",
+                        "totalCount": 726214
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:06:40.050Z",
+                        "totalCount": 12928
+                    }
+                ]
+            },
+            {
+                "printerId": "001fc448-dbf0-494a-965f-c4df8ec55cc4",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:51:09.327Z",
+                        "totalCount": 129403
+                    }
+                ]
+            },
+            {
+                "printerId": "87eddae5-7a53-4331-b14b-e724c60e9a1d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:16:34.877Z",
+                        "totalCount": 102886
+                    }
+                ]
+            },
+            {
+                "printerId": "73deaec2-ac55-4c79-bc29-f3656db8395c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-10-07T14:23:42.540Z",
+                        "totalCount": 42833
+                    }
+                ]
+            },
+            {
+                "printerId": "bd0a5656-6003-440f-9f63-1befbc27d190",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-11T18:15:22.657Z",
+                        "totalCount": 92072
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-11T18:15:22.817Z",
+                        "totalCount": 3263
+                    }
+                ]
+            },
+            {
+                "printerId": "7403698b-dcaf-4b1b-8d56-f1118999b1c7",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-12T16:44:43.630Z",
+                        "totalCount": 96395
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-12T16:44:43.760Z",
+                        "totalCount": 1835
+                    }
+                ]
+            },
+            {
+                "printerId": "96f2b9c9-eda8-4171-9db7-165a94ba4698",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:24:12.963Z",
+                        "totalCount": 1477
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T16:24:12.970Z",
+                        "totalCount": 29149
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:24:18.230Z",
+                        "totalCount": 14696
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:24:13.000Z",
+                        "totalCount": 213
+                    }
+                ]
+            },
+            {
+                "printerId": "250073e4-3fef-417d-a03e-aedbb226e7b7",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:24:35.377Z",
+                        "totalCount": 152573
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:24:35.507Z",
+                        "totalCount": 18
+                    }
+                ]
+            },
+            {
+                "printerId": "8ee35e98-d8ad-466a-8db7-2b5daf89f377",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:12:10.030Z",
+                        "totalCount": 310710
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:12:10.063Z",
+                        "totalCount": 1868
+                    }
+                ]
+            },
+            {
+                "printerId": "2ddf5937-33c8-4f20-958b-f44b1e171903",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T12:06:02.940Z",
+                        "totalCount": 162643
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T12:06:03.093Z",
+                        "totalCount": 16479
+                    }
+                ]
+            },
+            {
+                "printerId": "4f61255a-67a8-45be-9242-492d3f188e74",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:45:33.760Z",
+                        "totalCount": 66324
+                    }
+                ]
+            },
+            {
+                "printerId": "48c8bc96-2385-4e82-be9c-6ef65cdd4411",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:45:34.300Z",
+                        "totalCount": 158762
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:45:34.300Z",
+                        "totalCount": 487
+                    }
+                ]
+            },
+            {
+                "printerId": "21488713-2c0e-41aa-ba88-88ba71ed837e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:45:26.387Z",
+                        "totalCount": 109155
+                    }
+                ]
+            },
+            {
+                "printerId": "6d009a4d-4a25-4f4f-948a-5b8b455900ad",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T12:15:17.230Z",
+                        "totalCount": 113077
+                    }
+                ]
+            },
+            {
+                "printerId": "e3b437ec-92cc-44af-a6b8-1c13ec772022",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:12:10.157Z",
+                        "totalCount": 199284
+                    }
+                ]
+            },
+            {
+                "printerId": "9cd76dcf-1671-490e-b408-ccc3e9553a92",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:15:42.047Z",
+                        "totalCount": 118748
+                    }
+                ]
+            },
+            {
+                "printerId": "f138177d-87ce-461c-9c7f-aa71fa46d088",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:55:05.030Z",
+                        "totalCount": 82752
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:55:05.037Z",
+                        "totalCount": 2409
+                    }
+                ]
+            },
+            {
+                "printerId": "712bdbe0-efc1-43ed-bc09-e0a743b99275",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:15:42.053Z",
+                        "totalCount": 167336
+                    }
+                ]
+            },
+            {
+                "printerId": "2aa61011-3cac-46c2-8d8a-b7d80b82b049",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:29:09.930Z",
+                        "totalCount": 38848
+                    }
+                ]
+            },
+            {
+                "printerId": "ce9d1394-6b23-43b5-b271-a69ecb0d7b48",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:45:40.817Z",
+                        "totalCount": 28302
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T18:45:40.817Z",
+                        "totalCount": 148278
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:45:40.820Z",
+                        "totalCount": 796
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T18:45:40.820Z",
+                        "totalCount": 95421
+                    }
+                ]
+            },
+            {
+                "printerId": "971266ca-3ed5-4d69-bb80-2fbe74cf3f8a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:02:55.570Z",
+                        "totalCount": 41814
+                    }
+                ]
+            },
+            {
+                "printerId": "9020474b-52a4-4106-8685-f2704a4590f2",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:02:10.103Z",
+                        "totalCount": 36621
+                    }
+                ]
+            },
+            {
+                "printerId": "9cfb14df-2a6a-421a-b353-85fad28600b6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:21:46.687Z",
+                        "totalCount": 38731
+                    }
+                ]
+            },
+            {
+                "printerId": "ce92ec61-266f-4d48-8b37-4c8037c45020",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:24:09.630Z",
+                        "totalCount": 25890
+                    }
+                ]
+            },
+            {
+                "printerId": "e36c574f-dfa0-4be1-9084-76f50638903f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.900Z",
+                        "totalCount": 62618
+                    }
+                ]
+            },
+            {
+                "printerId": "e53bb077-8e42-4189-9656-2ea0a64d8790",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-10T06:26:25.970Z",
+                        "totalCount": 95991
+                    }
+                ]
+            },
+            {
+                "printerId": "8d1c8e5b-7251-44b1-95b9-6afffd3f49e6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:45:37.157Z",
+                        "totalCount": 162664
+                    }
+                ]
+            },
+            {
+                "printerId": "2dc0eab3-59fa-4ddf-b8dc-3b428b910b54",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:15:35.460Z",
+                        "totalCount": 22852
+                    }
+                ]
+            },
+            {
+                "printerId": "b47e1b00-1574-49e9-a72a-ef87afddf542",
+                "counters": []
+            },
+            {
+                "printerId": "26c4a95d-75f0-4638-812c-40bd06a02f5c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:51:04.797Z",
+                        "totalCount": 55879
+                    }
+                ]
+            },
+            {
+                "printerId": "1c0c956a-be92-4fab-b3b4-ba899b4a2196",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T12:37:31.050Z",
+                        "totalCount": 49755
+                    }
+                ]
+            },
+            {
+                "printerId": "2b08fee7-7125-4dcf-a77c-605710e3a955",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-03-25T08:00:00.000Z",
+                        "totalCount": 114775
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-03-25T08:00:00.000Z",
+                        "totalCount": 662
+                    }
+                ]
+            },
+            {
+                "printerId": "61266ae8-87d6-4dee-be4e-b111137231f2",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:15:17.817Z",
+                        "totalCount": 76526
+                    }
+                ]
+            },
+            {
+                "printerId": "96bbdbe0-c542-4dd4-a5b5-82a483825857",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:54:35.133Z",
+                        "totalCount": 75036
+                    }
+                ]
+            },
+            {
+                "printerId": "596ce565-eeed-44f5-b25b-5c310fbb4754",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:45:47.430Z",
+                        "totalCount": 8946
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T17:45:47.430Z",
+                        "totalCount": 120320
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:45:47.550Z",
+                        "totalCount": 10
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T17:45:47.550Z",
+                        "totalCount": 339
+                    }
+                ]
+            },
+            {
+                "printerId": "2ee59448-caae-4433-a9c8-7854a55aa629",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:24:12.683Z",
+                        "totalCount": 279503
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:24:12.810Z",
+                        "totalCount": 50303
+                    }
+                ]
+            },
+            {
+                "printerId": "496956a3-308c-41ad-9dd8-9cb28c0aefea",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-10-16T15:08:49.520Z",
+                        "totalCount": 19358
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-10-16T15:08:49.560Z",
+                        "totalCount": 15098
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-10-16T15:08:49.757Z",
+                        "totalCount": 1112
+                    }
+                ]
+            },
+            {
+                "printerId": "68d6fd77-8c05-4905-861e-8c1498f1bace",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:58:16.903Z",
+                        "totalCount": 119601
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:58:16.930Z",
+                        "totalCount": 88188
+                    }
+                ]
+            },
+            {
+                "printerId": "2a1729e2-c00e-45bf-aa6a-1ff997141199",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:44:32.767Z",
+                        "totalCount": 218769
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:44:32.797Z",
+                        "totalCount": 121447
+                    }
+                ]
+            },
+            {
+                "printerId": "d1332f90-ab64-4285-a9f7-d8bb6f861970",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:35:59.520Z",
+                        "totalCount": 20571
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T17:35:59.520Z",
+                        "totalCount": 81990
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:35:59.520Z",
+                        "totalCount": 9
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T17:35:59.520Z",
+                        "totalCount": 21882
+                    }
+                ]
+            },
+            {
+                "printerId": "e8d15c9a-5c2d-4ed6-b95d-a5a12cf30c05",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:05:27.600Z",
+                        "totalCount": 178995
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:05:27.613Z",
+                        "totalCount": 39587
+                    }
+                ]
+            },
+            {
+                "printerId": "bedb4f4a-ab80-4b96-9c27-f7d09dea25ef",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-06T08:54:04.923Z",
+                        "totalCount": 202592
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-06T09:24:46.687Z",
+                        "totalCount": 19073
+                    }
+                ]
+            },
+            {
+                "printerId": "9dded1bc-0f04-4c94-a8fc-1d1429b3957c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:46:13.433Z",
+                        "totalCount": 3685
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T14:46:13.433Z",
+                        "totalCount": 48491
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:46:13.447Z",
+                        "totalCount": 36
+                    }
+                ]
+            },
+            {
+                "printerId": "fed5feca-cee3-4c4b-b2a1-bf61a46398e6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:23:23.990Z",
+                        "totalCount": 78532
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:23:25.193Z",
+                        "totalCount": 19312
+                    }
+                ]
+            },
+            {
+                "printerId": "38f43177-1354-4d68-abdd-25ab5e3dbcf5",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:17:02.087Z",
+                        "totalCount": 61717
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T19:17:02.103Z",
+                        "totalCount": 215803
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:17:02.103Z",
+                        "totalCount": 1278
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T19:17:02.103Z",
+                        "totalCount": 3399
+                    }
+                ]
+            },
+            {
+                "printerId": "67fa76da-941e-4712-b377-02a335e3f140",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:46:16.560Z",
+                        "totalCount": 235439
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:46:16.593Z",
+                        "totalCount": 10703
+                    }
+                ]
+            },
+            {
+                "printerId": "11f80120-7140-425b-b7d6-4d5e35fea688",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:54:24.877Z",
+                        "totalCount": 198448
+                    }
+                ]
+            },
+            {
+                "printerId": "d04f374c-a9b8-44ad-9893-8dea64a10e6d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:39:44.320Z",
+                        "totalCount": 124280
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:39:44.353Z",
+                        "totalCount": 6368
+                    }
+                ]
+            },
+            {
+                "printerId": "2004dda2-9b5a-442a-b0ea-b5a0b7c0465a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:53:01.847Z",
+                        "totalCount": 213614
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:53:01.873Z",
+                        "totalCount": 8895
+                    }
+                ]
+            },
+            {
+                "printerId": "5c03a871-9e6a-48e4-8d5f-7f5f9696d218",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:21:45.947Z",
+                        "totalCount": 107172
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:21:45.980Z",
+                        "totalCount": 2345
+                    }
+                ]
+            },
+            {
+                "printerId": "013ed6b2-ac3a-4fd6-b266-0c7b65aa2c15",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:24:34.940Z",
+                        "totalCount": 57889
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:24:34.980Z",
+                        "totalCount": 9298
+                    }
+                ]
+            },
+            {
+                "printerId": "94db58a6-90c8-4ae2-9174-21c7882fe8af",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:12:58.120Z",
+                        "totalCount": 184736
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:12:58.143Z",
+                        "totalCount": 24486
+                    }
+                ]
+            },
+            {
+                "printerId": "0dc6234f-1d03-4d9f-ba8e-eaf931cdbe89",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-12T17:47:23.677Z",
+                        "totalCount": 13702
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-12T17:47:23.660Z",
+                        "totalCount": 57595
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-12T17:47:23.703Z",
+                        "totalCount": 206
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-12T17:47:23.730Z",
+                        "totalCount": 2616
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-12T17:47:23.743Z",
+                        "totalCount": 135234
+                    }
+                ]
+            },
+            {
+                "printerId": "71a3a954-d07a-4f90-88bf-00588d416698",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:16:58.643Z",
+                        "totalCount": 45696
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:16:58.677Z",
+                        "totalCount": 4843
+                    }
+                ]
+            },
+            {
+                "printerId": "5a93ba5e-047c-4e7c-8635-2a90f816ab36",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:15:35.080Z",
+                        "totalCount": 84807
+                    }
+                ]
+            },
+            {
+                "printerId": "15fd8b2e-52e6-45c6-91bd-8510b7963c3c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:09:32.907Z",
+                        "totalCount": 122356
+                    }
+                ]
+            },
+            {
+                "printerId": "39d85457-f020-48d0-adc3-9887f96fa74f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-10T12:01:12.970Z",
+                        "totalCount": 90655
+                    }
+                ]
+            },
+            {
+                "printerId": "231931d6-d4f4-47c5-8ba0-633f14327342",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:16:17.757Z",
+                        "totalCount": 2031
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T16:16:17.757Z",
+                        "totalCount": 44273
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:16:17.770Z",
+                        "totalCount": 306
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T16:16:17.770Z",
+                        "totalCount": 4052
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:16:17.787Z",
+                        "totalCount": 10856
+                    }
+                ]
+            },
+            {
+                "printerId": "23acaf70-513c-45ae-85e2-23aecde7a650",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:06:42.457Z",
+                        "totalCount": 56061
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:06:42.480Z",
+                        "totalCount": 4118
+                    }
+                ]
+            },
+            {
+                "printerId": "07a9703e-48dc-41d6-9e22-ec4c6b18691d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:02.560Z",
+                        "totalCount": 103745
+                    }
+                ]
+            },
+            {
+                "printerId": "aa18c66d-c985-4cc9-9d40-c5aaeda9683f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:54:07.757Z",
+                        "totalCount": 1854
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T14:54:07.753Z",
+                        "totalCount": 75934
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:54:07.760Z",
+                        "totalCount": 42
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T14:54:07.763Z",
+                        "totalCount": 4408
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:54:07.767Z",
+                        "totalCount": 6228
+                    }
+                ]
+            },
+            {
+                "printerId": "8a0cc6e9-ab64-4c28-b23e-fb6a8f15cbc5",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:58:59.647Z",
+                        "totalCount": 88771
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:58:59.677Z",
+                        "totalCount": 25891
+                    }
+                ]
+            },
+            {
+                "printerId": "86a0f681-9d71-4c19-b794-c3c8e81abf78",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-11T11:05:11.000Z",
+                        "totalCount": 264738
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-11T11:05:11.013Z",
+                        "totalCount": 4927
+                    }
+                ]
+            },
+            {
+                "printerId": "c92961e1-4a11-46bb-9da8-017b2b01f37e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:16:55.730Z",
+                        "totalCount": 124007
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:16:55.760Z",
+                        "totalCount": 15199
+                    }
+                ]
+            },
+            {
+                "printerId": "3a2b91a7-3549-4a83-97fd-a9dbe1682561",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:02:20.627Z",
+                        "totalCount": 179535
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:02:20.673Z",
+                        "totalCount": 28454
+                    }
+                ]
+            },
+            {
+                "printerId": "26a48c91-778d-4800-bdc3-cb0e1034df98",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:16:18.007Z",
+                        "totalCount": 104009
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:16:18.037Z",
+                        "totalCount": 17072
+                    }
+                ]
+            },
+            {
+                "printerId": "0706726b-ce95-498d-bb88-1d0b2a47efa6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:16:12.540Z",
+                        "totalCount": 167194
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:16:12.573Z",
+                        "totalCount": 7312
+                    }
+                ]
+            },
+            {
+                "printerId": "e607d65e-acbd-4e3b-b71c-3cc06628be80",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:54:19.690Z",
+                        "totalCount": 44657
+                    }
+                ]
+            },
+            {
+                "printerId": "48127525-863e-403c-82cf-65be5a4d8835",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-02T11:59:36.840Z",
+                        "totalCount": 291967
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-02T11:59:36.867Z",
+                        "totalCount": 25977
+                    }
+                ]
+            },
+            {
+                "printerId": "f0c20958-3d41-4075-90d4-e1f1ef62f812",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:16:55.760Z",
+                        "totalCount": 72825
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:16:55.777Z",
+                        "totalCount": 15316
+                    }
+                ]
+            },
+            {
+                "printerId": "e62dd13a-cf94-4e02-a519-578e4122c40d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:16:18.130Z",
+                        "totalCount": 50948
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:16:18.170Z",
+                        "totalCount": 365
+                    }
+                ]
+            },
+            {
+                "printerId": "61dca0ad-13ed-4492-b06d-034456376a84",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:12:10.077Z",
+                        "totalCount": 58180
+                    }
+                ]
+            },
+            {
+                "printerId": "6aec67e2-8b38-4987-bbb6-c028a5f68119",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:46:16.340Z",
+                        "totalCount": 250339
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:46:16.373Z",
+                        "totalCount": 162608
+                    }
+                ]
+            },
+            {
+                "printerId": "cdfa06aa-2823-429e-8b79-578cd1e3cffe",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:16:17.770Z",
+                        "totalCount": 71791
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:16:17.817Z",
+                        "totalCount": 1477
+                    }
+                ]
+            },
+            {
+                "printerId": "ba0206f0-defa-4475-90b0-2c590af45fec",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.337Z",
+                        "totalCount": 179897
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:46:19.370Z",
+                        "totalCount": 90839
+                    }
+                ]
+            },
+            {
+                "printerId": "86a8bd32-a022-4589-903f-2ea60e026020",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:46:13.323Z",
+                        "totalCount": 159551
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:46:13.340Z",
+                        "totalCount": 7337
+                    }
+                ]
+            },
+            {
+                "printerId": "3ff1ec98-6be9-4463-9cc5-e97ffbfad825",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:22:45.757Z",
+                        "totalCount": 477913
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:22:45.783Z",
+                        "totalCount": 5290
+                    }
+                ]
+            },
+            {
+                "printerId": "bc5c14d1-cfb5-41a4-99a9-801edb7e1184",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:53:38.087Z",
+                        "totalCount": 123822
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:53:38.113Z",
+                        "totalCount": 2705
+                    }
+                ]
+            },
+            {
+                "printerId": "d8c3e892-9bd8-4d09-b019-ca61fae4cdcb",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.730Z",
+                        "totalCount": 133013
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:46:19.760Z",
+                        "totalCount": 12405
+                    }
+                ]
+            },
+            {
+                "printerId": "bf7081d8-c983-4d42-8b64-2d0dbb7a13c6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:58:38.157Z",
+                        "totalCount": 49822
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:58:38.190Z",
+                        "totalCount": 2616
+                    }
+                ]
+            },
+            {
+                "printerId": "789e4768-ac3c-4438-807d-dedaee111812",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:16:56.027Z",
+                        "totalCount": 40563
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:16:56.043Z",
+                        "totalCount": 2089
+                    }
+                ]
+            },
+            {
+                "printerId": "04a61e2a-672b-4dcd-a795-1b4d6eda7a56",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.213Z",
+                        "totalCount": 67379
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:46:19.243Z",
+                        "totalCount": 8857
+                    }
+                ]
+            },
+            {
+                "printerId": "ff5cf56a-0c24-4363-bd59-84909caecea2",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:12:51.927Z",
+                        "totalCount": 165304
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:12:51.957Z",
+                        "totalCount": 23726
+                    }
+                ]
+            },
+            {
+                "printerId": "3a8dcfaf-1564-487e-ab55-eea40aab9292",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:24:14.907Z",
+                        "totalCount": 35763
+                    }
+                ]
+            },
+            {
+                "printerId": "d892abb9-f9e5-4c8b-836a-c7f267df7706",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:16:11.917Z",
+                        "totalCount": 5368
+                    }
+                ]
+            },
+            {
+                "printerId": "12e0744e-7cda-4f76-89b7-5c22c7231195",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:34:14.333Z",
+                        "totalCount": 277052
+                    }
+                ]
+            },
+            {
+                "printerId": "ea6d3fe1-7b81-44de-92a2-50e7ef5b82fb",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:46:57.243Z",
+                        "totalCount": 31552
+                    }
+                ]
+            },
+            {
+                "printerId": "d8403b14-2520-4840-a248-029f43704e24",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:13:27.940Z",
+                        "totalCount": 18894
+                    }
+                ]
+            },
+            {
+                "printerId": "70858aeb-2b6a-4d8b-a8a0-fae0d2df1012",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:16:13.807Z",
+                        "totalCount": 46860
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:16:13.853Z",
+                        "totalCount": 8738
+                    }
+                ]
+            },
+            {
+                "printerId": "3060559f-3cef-451c-872d-feaad4275905",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:06:54.083Z",
+                        "totalCount": 274468
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:06:54.117Z",
+                        "totalCount": 1003
+                    }
+                ]
+            },
+            {
+                "printerId": "23ae5c80-1275-4a3a-9f9a-6fe1118a145e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:36:40.060Z",
+                        "totalCount": 286553
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:36:40.087Z",
+                        "totalCount": 7438
+                    }
+                ]
+            },
+            {
+                "printerId": "3bccaf26-cf7d-4f5d-ba3e-dea112a15b7e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:16:14.993Z",
+                        "totalCount": 110797
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:16:15.023Z",
+                        "totalCount": 30206
+                    }
+                ]
+            },
+            {
+                "printerId": "a83cf9df-70db-4e0d-90f6-39e76f4ba9be",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:01:59.837Z",
+                        "totalCount": 120227
+                    }
+                ]
+            },
+            {
+                "printerId": "22513877-9721-4931-b376-4914d6418862",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:08:03.157Z",
+                        "totalCount": 108352
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:08:03.187Z",
+                        "totalCount": 2378
+                    }
+                ]
+            },
+            {
+                "printerId": "124fa781-3ee9-400a-b063-cfc21cff44e6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:05:07.213Z",
+                        "totalCount": 86246
+                    }
+                ]
+            },
+            {
+                "printerId": "4ec946cb-24de-4f1e-980f-6245c58151e6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:59:01.177Z",
+                        "totalCount": 159002
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:59:01.287Z",
+                        "totalCount": 31563
+                    }
+                ]
+            },
+            {
+                "printerId": "1ed4ae4f-265e-49d4-a7df-a555d6dfeed9",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:08:02.703Z",
+                        "totalCount": 37868
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T17:08:02.690Z",
+                        "totalCount": 55964
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:08:02.710Z",
+                        "totalCount": 2180
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T17:08:02.713Z",
+                        "totalCount": 1136
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:08:02.720Z",
+                        "totalCount": 36617
+                    }
+                ]
+            },
+            {
+                "printerId": "7839f328-92e2-48a2-96e4-9b2b4af8e85d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.933Z",
+                        "totalCount": 52783
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:46:19.963Z",
+                        "totalCount": 3814
+                    }
+                ]
+            },
+            {
+                "printerId": "acf0480e-6e20-4214-b520-2ea7fd9e7946",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:24:14.907Z",
+                        "totalCount": 149012
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:24:14.933Z",
+                        "totalCount": 23850
+                    }
+                ]
+            },
+            {
+                "printerId": "433dca23-d680-4420-bd38-94b0f2dd05e0",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:34:14.717Z",
+                        "totalCount": 142381
+                    }
+                ]
+            },
+            {
+                "printerId": "abccbe93-516f-4991-84cd-bf0b6272bbff",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:46:01.990Z",
+                        "totalCount": 93037
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:46:02.003Z",
+                        "totalCount": 2577
+                    }
+                ]
+            },
+            {
+                "printerId": "cebe87ce-0ecf-449a-a89f-314652172bab",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:16:56.120Z",
+                        "totalCount": 168617
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:16:56.150Z",
+                        "totalCount": 5389
+                    }
+                ]
+            },
+            {
+                "printerId": "25e783a7-0df6-4ff5-91df-4b2a26657c7a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:42:08.000Z",
+                        "totalCount": 175324
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:42:08.030Z",
+                        "totalCount": 19308
+                    }
+                ]
+            },
+            {
+                "printerId": "fb8eb8e5-4387-47d4-b1a7-1577ba430d6d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:46:57.620Z",
+                        "totalCount": 76617
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:46:57.650Z",
+                        "totalCount": 1588
+                    }
+                ]
+            },
+            {
+                "printerId": "ef0f17eb-1811-43c8-a159-bb5dcc148e33",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:07:39.420Z",
+                        "totalCount": 154703
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:07:39.457Z",
+                        "totalCount": 7713
+                    }
+                ]
+            },
+            {
+                "printerId": "0f4340de-d489-4b8f-b5d3-da119100c3b0",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:36:24.083Z",
+                        "totalCount": 288775
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:36:24.110Z",
+                        "totalCount": 13328
+                    }
+                ]
+            },
+            {
+                "printerId": "c48f3572-dbe3-4006-862b-6c1c7de6230c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:12:36.457Z",
+                        "totalCount": 83769
+                    }
+                ]
+            },
+            {
+                "printerId": "bebeb71b-537f-4113-a079-98e2c2fe4c3d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:16:56.197Z",
+                        "totalCount": 136772
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:16:56.230Z",
+                        "totalCount": 1580
+                    }
+                ]
+            },
+            {
+                "printerId": "6d1a1fbc-cf9a-4e4f-9beb-e531cca577fd",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:37:22.910Z",
+                        "totalCount": 40665
+                    }
+                ]
+            },
+            {
+                "printerId": "442db908-acba-4a0e-b568-dbe5394e7484",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:24:14.907Z",
+                        "totalCount": 131672
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:24:14.933Z",
+                        "totalCount": 12202
+                    }
+                ]
+            },
+            {
+                "printerId": "c7bd44c4-cda4-4baf-aea2-3a617edb2df2",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:54:13.707Z",
+                        "totalCount": 79479
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:54:13.743Z",
+                        "totalCount": 3323
+                    }
+                ]
+            },
+            {
+                "printerId": "c7174952-eb40-4d97-baca-d709fad3d7c0",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:54:13.707Z",
+                        "totalCount": 52601
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:54:13.740Z",
+                        "totalCount": 17511
+                    }
+                ]
+            },
+            {
+                "printerId": "0c8ee16c-e1b3-4eed-b0ad-1cc5f8e5dc37",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-06T14:21:59.747Z",
+                        "totalCount": 35127
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-06T14:21:59.870Z",
+                        "totalCount": 134275
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-06T14:21:59.917Z",
+                        "totalCount": 950
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-06T14:21:59.917Z",
+                        "totalCount": 1954
+                    }
+                ]
+            },
+            {
+                "printerId": "814fe217-7458-4e3d-9c2d-ef406db2e15b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:02.667Z",
+                        "totalCount": 113066
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:29:02.700Z",
+                        "totalCount": 1351
+                    }
+                ]
+            },
+            {
+                "printerId": "af9cfaf4-c65c-441f-bdb6-28ea2d13ddc3",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.197Z",
+                        "totalCount": 138262
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:46:19.230Z",
+                        "totalCount": 10982
+                    }
+                ]
+            },
+            {
+                "printerId": "6fc9a899-b42e-4861-ab8f-e21f1db8a843",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:14:42.977Z",
+                        "totalCount": 137176
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:14:43.010Z",
+                        "totalCount": 9173
+                    }
+                ]
+            },
+            {
+                "printerId": "581bae92-0d9a-4fb5-925a-d3750bfe9964",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:14.503Z",
+                        "totalCount": 124304
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:29:14.540Z",
+                        "totalCount": 49491
+                    }
+                ]
+            },
+            {
+                "printerId": "acca437a-3cb4-4b69-af76-f88d69c2efa1",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:17:01.617Z",
+                        "totalCount": 265093
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:17:01.650Z",
+                        "totalCount": 1085
+                    }
+                ]
+            },
+            {
+                "printerId": "0af31205-dca0-490e-ad48-a9c0e69cf1a7",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:13:54.977Z",
+                        "totalCount": 261790
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:13:54.990Z",
+                        "totalCount": 25025
+                    }
+                ]
+            },
+            {
+                "printerId": "ae99efb0-0164-48ae-8820-59e85b50693e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:17:01.727Z",
+                        "totalCount": 66841
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:17:01.760Z",
+                        "totalCount": 3175
+                    }
+                ]
+            },
+            {
+                "printerId": "d776b9eb-7085-464f-b2b4-791c58aedd53",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:17:01.617Z",
+                        "totalCount": 132577
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:17:01.650Z",
+                        "totalCount": 2436
+                    }
+                ]
+            },
+            {
+                "printerId": "f73e6992-f2cb-4ec3-ad96-06a8a41838b4",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-01-22T15:03:50.663Z",
+                        "totalCount": 104952
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-01-22T15:03:50.687Z",
+                        "totalCount": 616
+                    }
+                ]
+            },
+            {
+                "printerId": "f49bf0f6-148e-4e63-9b54-56cd6a751697",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:17:31.277Z",
+                        "totalCount": 47345
+                    }
+                ]
+            },
+            {
+                "printerId": "d401457c-7066-45a7-9f4a-782b3585ffc5",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-10T15:57:54.093Z",
+                        "totalCount": 114483
+                    }
+                ]
+            },
+            {
+                "printerId": "5df6a7fd-3fd0-4754-b20a-c70722c4ce59",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T12:16:19.407Z",
+                        "totalCount": 9275
+                    }
+                ]
+            },
+            {
+                "printerId": "83496f1e-4df5-44fe-9075-9798203e7b00",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:02.463Z",
+                        "totalCount": 152339
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:29:02.513Z",
+                        "totalCount": 544
+                    }
+                ]
+            },
+            {
+                "printerId": "3d2526db-86e7-40e1-b811-eca7bf67e438",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:11:54.503Z",
+                        "totalCount": 41941
+                    }
+                ]
+            },
+            {
+                "printerId": "d0b5766c-834c-410b-be99-291edc833219",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:12:05.547Z",
+                        "totalCount": 79405
+                    }
+                ]
+            },
+            {
+                "printerId": "f2d2656f-de8d-4b57-b94e-d39ea31fd3fd",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:06:55.030Z",
+                        "totalCount": 35027
+                    }
+                ]
+            },
+            {
+                "printerId": "5cff8bbb-32bb-498c-ab11-e5928d0c3622",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:07:03.137Z",
+                        "totalCount": 86063
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:07:03.170Z",
+                        "totalCount": 24384
+                    }
+                ]
+            },
+            {
+                "printerId": "f3f60973-7556-49b3-9e96-249543185a68",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:45:26.520Z",
+                        "totalCount": 116473
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:45:26.547Z",
+                        "totalCount": 45109
+                    }
+                ]
+            },
+            {
+                "printerId": "c1cf5cc1-36a3-4c84-b717-b28147f09343",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:06:08.457Z",
+                        "totalCount": 153953
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:06:08.483Z",
+                        "totalCount": 39272
+                    }
+                ]
+            },
+            {
+                "printerId": "af9e5c11-2f2b-4a66-b1be-4da1d8f13c1e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:44.480Z",
+                        "totalCount": 150095
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:29:44.507Z",
+                        "totalCount": 25406
+                    }
+                ]
+            },
+            {
+                "printerId": "39211d25-5c79-4e39-8a54-47e5cc6f3a91",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:28:18.047Z",
+                        "totalCount": 110533
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:28:18.063Z",
+                        "totalCount": 10777
+                    }
+                ]
+            },
+            {
+                "printerId": "5a7d1bd8-22b2-48a6-9d20-87d8781f2b14",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:48:14.913Z",
+                        "totalCount": 218597
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:48:14.943Z",
+                        "totalCount": 9661
+                    }
+                ]
+            },
+            {
+                "printerId": "5c822b4d-2a3b-4123-9303-bb5ff22c3c04",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:05:13.857Z",
+                        "totalCount": 102453
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:05:13.887Z",
+                        "totalCount": 2533
+                    }
+                ]
+            },
+            {
+                "printerId": "4503aab6-7232-4873-abbd-6e7c8937bba3",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:14:00.347Z",
+                        "totalCount": 148077
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:14:00.373Z",
+                        "totalCount": 12635
+                    }
+                ]
+            },
+            {
+                "printerId": "02a3fd0b-6a14-4adf-8916-8c5d504dedde",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:10:11.810Z",
+                        "totalCount": 68335
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:10:11.847Z",
+                        "totalCount": 17376
+                    }
+                ]
+            },
+            {
+                "printerId": "7a846ea4-a3ba-4b07-9e49-b783b46f29e0",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:42:31.047Z",
+                        "totalCount": 287668
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:42:31.080Z",
+                        "totalCount": 9335
+                    }
+                ]
+            },
+            {
+                "printerId": "344a954e-f1bf-4a8b-a7ce-f46e61e7754f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:55:45.833Z",
+                        "totalCount": 242138
+                    }
+                ]
+            },
+            {
+                "printerId": "8a1a5273-2472-4fb2-9241-0d6d540ed9eb",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:15:32.093Z",
+                        "totalCount": 107019
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:15:32.120Z",
+                        "totalCount": 13603
+                    }
+                ]
+            },
+            {
+                "printerId": "8ea400ad-6b71-4ff1-815b-564b23e36b05",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:12:05.530Z",
+                        "totalCount": 102898
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:12:05.563Z",
+                        "totalCount": 4702
+                    }
+                ]
+            },
+            {
+                "printerId": "e82dfed1-a13c-4168-b2b4-2308b865e084",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:16:55.713Z",
+                        "totalCount": 36580
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T17:16:55.713Z",
+                        "totalCount": 231328
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:16:55.713Z",
+                        "totalCount": 581
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T17:16:55.730Z",
+                        "totalCount": 4702
+                    }
+                ]
+            },
+            {
+                "printerId": "c7340f53-c5f4-4799-a2a3-27047d9e3eee",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:18:02.873Z",
+                        "totalCount": 218408
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:18:02.947Z",
+                        "totalCount": 3446
+                    }
+                ]
+            },
+            {
+                "printerId": "0f95702d-f4fd-4e61-83dd-cd7bd2e25e56",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T11:45:30.530Z",
+                        "totalCount": 9525
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2023-08-31T00:10:00.000Z",
+                        "totalCount": 57
+                    }
+                ]
+            },
+            {
+                "printerId": "644c057e-de1b-419b-a771-c608d4dc7f44",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:04:06.397Z",
+                        "totalCount": 208524
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:04:06.443Z",
+                        "totalCount": 4544
+                    }
+                ]
+            },
+            {
+                "printerId": "ef394b2a-549f-4722-8bb1-ca6facba4319",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:55:11.363Z",
+                        "totalCount": 172910
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:55:11.410Z",
+                        "totalCount": 17062
+                    }
+                ]
+            },
+            {
+                "printerId": "89f0fd6b-18a5-4d48-b9d4-8e80d4c22f5c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:48:49.660Z",
+                        "totalCount": 118031
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:48:49.693Z",
+                        "totalCount": 3216
+                    }
+                ]
+            },
+            {
+                "printerId": "7bb304db-9297-4bc7-a926-3c08529412d9",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:19:07.977Z",
+                        "totalCount": 137979
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:19:08.080Z",
+                        "totalCount": 866
+                    }
+                ]
+            },
+            {
+                "printerId": "3e80c0f5-2df0-4e50-a2f2-4b608630bd81",
+                "counters": [
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T15:24:09.610Z",
+                        "totalCount": 214
+                    }
+                ]
+            },
+            {
+                "printerId": "f53dcd0d-1057-41b2-a11e-dc78d25e128d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-10-24T16:12:48.103Z",
+                        "totalCount": 389
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-10-24T16:12:48.127Z",
+                        "totalCount": 6607
+                    }
+                ]
+            },
+            {
+                "printerId": "36598b8d-5265-4a10-a7f3-cde5b7219159",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-12T17:25:13.820Z",
+                        "totalCount": 99215
+                    }
+                ]
+            },
+            {
+                "printerId": "6475d150-9c77-4603-8259-b325421847ea",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T13:46:10.940Z",
+                        "totalCount": 54507
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T13:46:10.940Z",
+                        "totalCount": 20830
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T13:46:10.957Z",
+                        "totalCount": 31
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T13:46:10.940Z",
+                        "totalCount": 283
+                    }
+                ]
+            },
+            {
+                "printerId": "6ab059d2-72a7-46e6-b4b4-9cd1b8a5fabe",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:25:15.060Z",
+                        "totalCount": 183803
+                    }
+                ]
+            },
+            {
+                "printerId": "91acd0d0-3795-444e-ad34-1ae1143b91f5",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:29:18.437Z",
+                        "totalCount": 154256
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:29:18.720Z",
+                        "totalCount": 220
+                    }
+                ]
+            },
+            {
+                "printerId": "924212c4-fd08-4bbf-a8c0-42bd09d9f115",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:51:24.033Z",
+                        "totalCount": 110097
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:51:24.063Z",
+                        "totalCount": 14456
+                    }
+                ]
+            },
+            {
+                "printerId": "3b06cc4c-f16d-4fba-8666-93ca33633857",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:24:35.803Z",
+                        "totalCount": 96158
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:24:35.843Z",
+                        "totalCount": 16597
+                    }
+                ]
+            },
+            {
+                "printerId": "49e4be0e-7e72-4771-b248-eb1e4a872a17",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:09:41.057Z",
+                        "totalCount": 294972
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:09:41.093Z",
+                        "totalCount": 30026
+                    }
+                ]
+            },
+            {
+                "printerId": "c4ca6d56-b4ed-404b-8933-8b5b219bbd7e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:05:36.520Z",
+                        "totalCount": 72148
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:05:36.563Z",
+                        "totalCount": 37705
+                    }
+                ]
+            },
+            {
+                "printerId": "77884392-016c-41ef-8c76-16e8eab1f709",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.603Z",
+                        "totalCount": 27364
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T16:46:19.603Z",
+                        "totalCount": 14477
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.620Z",
+                        "totalCount": 21331
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T16:46:19.620Z",
+                        "totalCount": 1064
+                    }
+                ]
+            },
+            {
+                "printerId": "e6d58c37-1ce2-4110-af96-8af0b9c78e9b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:24:35.823Z",
+                        "totalCount": 66543
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:24:35.863Z",
+                        "totalCount": 3015
+                    }
+                ]
+            },
+            {
+                "printerId": "3042a70b-c904-48ee-8810-f1fe2808908a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:23:33.723Z",
+                        "totalCount": 12590
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T16:23:33.783Z",
+                        "totalCount": 41399
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:23:33.800Z",
+                        "totalCount": 7504
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T16:23:33.800Z",
+                        "totalCount": 4751
+                    }
+                ]
+            },
+            {
+                "printerId": "40a5787c-732e-4c3b-bc13-58c7d34e90bf",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:35:33.417Z",
+                        "totalCount": 6514
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T16:35:33.443Z",
+                        "totalCount": 17740
+                    }
+                ]
+            },
+            {
+                "printerId": "524a2952-b080-4d09-85e9-82e9829d9a41",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:21:11.633Z",
+                        "totalCount": 47583
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:21:11.663Z",
+                        "totalCount": 846
+                    }
+                ]
+            },
+            {
+                "printerId": "5e9f5bc7-6209-4b5a-9e93-bc82cd48657d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:05:23.457Z",
+                        "totalCount": 177271
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:05:23.470Z",
+                        "totalCount": 42875
+                    }
+                ]
+            },
+            {
+                "printerId": "bdf64ec5-1b16-400d-90db-e921657ab68c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:17:16.990Z",
+                        "totalCount": 160966
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:17:17.020Z",
+                        "totalCount": 2343
+                    }
+                ]
+            },
+            {
+                "printerId": "60a95e64-21ee-4bc3-b4ec-55563a40b84e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:46:19.667Z",
+                        "totalCount": 80043
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:46:19.683Z",
+                        "totalCount": 5335
+                    }
+                ]
+            },
+            {
+                "printerId": "9614f91c-610e-4382-b08c-4358308ba34a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:58:17.643Z",
+                        "totalCount": 92741
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:58:17.660Z",
+                        "totalCount": 7107
+                    }
+                ]
+            },
+            {
+                "printerId": "12905353-b94d-4744-b398-2b58bfbc7ac5",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:39:49.340Z",
+                        "totalCount": 68852
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:39:49.367Z",
+                        "totalCount": 3176
+                    }
+                ]
+            },
+            {
+                "printerId": "93c99afe-0015-4b00-ade4-007ef8bca012",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:43:53.033Z",
+                        "totalCount": 44925
+                    }
+                ]
+            },
+            {
+                "printerId": "bf644754-3ebc-4c53-a9c1-320b62a061cc",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-12T15:03:21.293Z",
+                        "totalCount": 112342
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-12T15:03:33.963Z",
+                        "totalCount": 9840
+                    }
+                ]
+            },
+            {
+                "printerId": "ac6a15c4-5cff-4432-b36d-582b033d9091",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:45:33.993Z",
+                        "totalCount": 45395
+                    }
+                ]
+            },
+            {
+                "printerId": "b974f025-4e3d-4a47-87c7-b2e1da89335b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:05:06.543Z",
+                        "totalCount": 63411
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:05:06.593Z",
+                        "totalCount": 251
+                    }
+                ]
+            },
+            {
+                "printerId": "bb578555-353f-42eb-bd77-e14f8b905115",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:39:43.893Z",
+                        "totalCount": 90794
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:39:43.920Z",
+                        "totalCount": 52392
+                    }
+                ]
+            },
+            {
+                "printerId": "227385e9-df97-4785-8a86-6bc267f1069f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:28:23.340Z",
+                        "totalCount": 90105
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:28:23.370Z",
+                        "totalCount": 60344
+                    }
+                ]
+            },
+            {
+                "printerId": "83006e72-50cd-48d7-8443-3f241fb56dfc",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:16:28.593Z",
+                        "totalCount": 140063
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:16:28.627Z",
+                        "totalCount": 7895
+                    }
+                ]
+            },
+            {
+                "printerId": "4b1fef6d-703b-4043-bb20-871a5c86877f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:13:54.960Z",
+                        "totalCount": 222897
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:13:54.977Z",
+                        "totalCount": 1265
+                    }
+                ]
+            },
+            {
+                "printerId": "b7468968-0228-4378-b43e-c3e956537b21",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:55:04.040Z",
+                        "totalCount": 79985
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:55:04.067Z",
+                        "totalCount": 4712
+                    }
+                ]
+            },
+            {
+                "printerId": "3af467e1-18b6-4b43-8294-0fa78540e474",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:13:54.977Z",
+                        "totalCount": 376062
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:13:54.990Z",
+                        "totalCount": 7517
+                    }
+                ]
+            },
+            {
+                "printerId": "0b51177d-7daa-401d-9fc1-41d82f22b367",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:12:10.030Z",
+                        "totalCount": 310410
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:12:10.047Z",
+                        "totalCount": 163874
+                    }
+                ]
+            },
+            {
+                "printerId": "59ba3811-aa38-498a-85c0-483c3c7b0155",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:39:44.050Z",
+                        "totalCount": 403641
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:39:44.087Z",
+                        "totalCount": 6261
+                    }
+                ]
+            },
+            {
+                "printerId": "a3c6497d-daad-4e3e-9c10-f936ced2e5c2",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:55:04.510Z",
+                        "totalCount": 95073
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:55:04.533Z",
+                        "totalCount": 2216
+                    }
+                ]
+            },
+            {
+                "printerId": "de2235cf-4a33-4a63-8fe2-ffbceb78502f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:51:04.797Z",
+                        "totalCount": 34916
+                    }
+                ]
+            },
+            {
+                "printerId": "415db864-3e24-4bbd-afd1-36bd65ce3d01",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-07T07:20:58.443Z",
+                        "totalCount": 95768
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-07T07:20:58.537Z",
+                        "totalCount": 25399
+                    }
+                ]
+            },
+            {
+                "printerId": "8c08a6c8-a8f5-4e1f-9a8a-4fa89bf44773",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-12T17:47:23.440Z",
+                        "totalCount": 1164
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-12T17:47:23.443Z",
+                        "totalCount": 2287
+                    }
+                ]
+            },
+            {
+                "printerId": "20ca2a3e-f14d-4ae3-a2d6-8787fd944609",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:02:08.103Z",
+                        "totalCount": 84327
+                    }
+                ]
+            },
+            {
+                "printerId": "7d76429d-023d-4a04-810a-bdf6bb638f8f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:12:33.850Z",
+                        "totalCount": 43972
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:12:33.863Z",
+                        "totalCount": 1502
+                    }
+                ]
+            },
+            {
+                "printerId": "bba96db3-b8ba-4305-a16b-c433246357a8",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:13:54.517Z",
+                        "totalCount": 100494
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:13:54.540Z",
+                        "totalCount": 197
+                    }
+                ]
+            },
+            {
+                "printerId": "c3e47568-681c-4a43-bb38-a3b2d931a47c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:08:51.220Z",
+                        "totalCount": 44461
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:08:51.733Z",
+                        "totalCount": 2193
+                    }
+                ]
+            },
+            {
+                "printerId": "a550e476-9dc1-463e-aeff-7adade889d6d",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:06:03.637Z",
+                        "totalCount": 48184
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:06:03.670Z",
+                        "totalCount": 41
+                    }
+                ]
+            },
+            {
+                "printerId": "8fd1edee-434c-4c75-8072-5354e8b0e3ef",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:35:59.507Z",
+                        "totalCount": 68748
+                    }
+                ]
+            },
+            {
+                "printerId": "b5160e4e-051f-4acc-8ebb-3b9810f5343b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:48:56.783Z",
+                        "totalCount": 20824
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:48:56.813Z",
+                        "totalCount": 4032
+                    }
+                ]
+            },
+            {
+                "printerId": "ff4dc61d-5a2b-47a2-9167-f0604d7431d5",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:45:29.867Z",
+                        "totalCount": 61404
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:45:29.890Z",
+                        "totalCount": 11123
+                    }
+                ]
+            },
+            {
+                "printerId": "571acfd1-f91d-4761-b58a-a6d4665ba99e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:37:54.783Z",
+                        "totalCount": 173366
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:37:54.817Z",
+                        "totalCount": 3608
+                    }
+                ]
+            },
+            {
+                "printerId": "ba9fd29b-6119-4c99-835e-e6e34f903b07",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:17:02.103Z",
+                        "totalCount": 130783
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:17:05.137Z",
+                        "totalCount": 2388
+                    }
+                ]
+            },
+            {
+                "printerId": "160eac1a-a37a-4f61-88f0-7ed9c16c9696",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:46:57.433Z",
+                        "totalCount": 48946
+                    }
+                ]
+            },
+            {
+                "printerId": "f21535cb-0760-4ddb-b1c3-38375013a461",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:16:58.877Z",
+                        "totalCount": 99824
+                    }
+                ]
+            },
+            {
+                "printerId": "5a1de572-adfd-429a-92dc-5b78307f6982",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:06:15.800Z",
+                        "totalCount": 67640
+                    }
+                ]
+            },
+            {
+                "printerId": "55664c88-b83c-4963-af7f-876da0f12181",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-10T14:56:38.977Z",
+                        "totalCount": 46753
+                    }
+                ]
+            },
+            {
+                "printerId": "4311df8e-97a1-4c82-8b04-aaf355650655",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:15:31.997Z",
+                        "totalCount": 63584
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:15:32.023Z",
+                        "totalCount": 130
+                    }
+                ]
+            },
+            {
+                "printerId": "30c5d272-c9d4-428b-af4f-cfe2f1e93298",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:09:49.993Z",
+                        "totalCount": 209909
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:09:50.013Z",
+                        "totalCount": 2656
+                    }
+                ]
+            },
+            {
+                "printerId": "d489db24-50d7-4f8a-8a58-3ac85419b72f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:36:59.387Z",
+                        "totalCount": 113334
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:36:59.403Z",
+                        "totalCount": 7096
+                    }
+                ]
+            },
+            {
+                "printerId": "924f4046-7b7d-4029-b4d9-2fe0e39d0880",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:46:03.393Z",
+                        "totalCount": 70191
+                    }
+                ]
+            },
+            {
+                "printerId": "0a14c70f-5635-4695-9bed-42caeb73857b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:31:55.703Z",
+                        "totalCount": 94545
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:31:55.763Z",
+                        "totalCount": 1126
+                    }
+                ]
+            },
+            {
+                "printerId": "cd1eb364-ffee-46e9-9532-cd8e27bcce16",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:32:02.197Z",
+                        "totalCount": 200683
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:32:02.217Z",
+                        "totalCount": 16890
+                    }
+                ]
+            },
+            {
+                "printerId": "a98253da-6581-4a21-980d-bc866b93a611",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:12:10.030Z",
+                        "totalCount": 188052
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:12:10.047Z",
+                        "totalCount": 994
+                    }
+                ]
+            },
+            {
+                "printerId": "ff2e8f1a-6242-46ef-ba2b-a2c8be401cfc",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T13:56:35.233Z",
+                        "totalCount": 49489
+                    }
+                ]
+            },
+            {
+                "printerId": "270b085e-f5ac-430d-8221-99f98e5a9da1",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:45:44.057Z",
+                        "totalCount": 100937
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:45:44.087Z",
+                        "totalCount": 5792
+                    }
+                ]
+            },
+            {
+                "printerId": "6368d0c5-0c7c-4257-bc52-a692de1fd7b0",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:35:36.963Z",
+                        "totalCount": 56802
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:35:36.997Z",
+                        "totalCount": 3110
+                    }
+                ]
+            },
+            {
+                "printerId": "a5851f7c-2420-4a41-84a8-a7667acbe534",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:09:49.600Z",
+                        "totalCount": 211305
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:09:49.623Z",
+                        "totalCount": 3406
+                    }
+                ]
+            },
+            {
+                "printerId": "51960e06-7d5d-4d52-9192-14da424ac9d8",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:24:15.053Z",
+                        "totalCount": 21592
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:24:15.087Z",
+                        "totalCount": 7026
+                    }
+                ]
+            },
+            {
+                "printerId": "2c699298-1bca-4509-aed6-7e79574e7a9e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:01:34.463Z",
+                        "totalCount": 101804
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:01:34.490Z",
+                        "totalCount": 14179
+                    }
+                ]
+            },
+            {
+                "printerId": "c67589aa-0de2-4680-b380-cf4af6fd0e1b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:48:52.667Z",
+                        "totalCount": 131281
+                    }
+                ]
+            },
+            {
+                "printerId": "54c6128a-99c8-4cc5-a8b7-948f8fce2dbf",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:05:18.820Z",
+                        "totalCount": 73706
+                    }
+                ]
+            },
+            {
+                "printerId": "ccec3fe2-7ba1-459d-980b-fb7e2835afd2",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:57:40.530Z",
+                        "totalCount": 166543
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:57:40.560Z",
+                        "totalCount": 31246
+                    }
+                ]
+            },
+            {
+                "printerId": "9ab9768a-8950-4edf-ba69-a65227190631",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:06:36.847Z",
+                        "totalCount": 48462
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:06:36.880Z",
+                        "totalCount": 1076
+                    }
+                ]
+            },
+            {
+                "printerId": "3f428cc0-2e91-48ff-84e9-eced372ee351",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:15:28.107Z",
+                        "totalCount": 1626
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T15:15:28.130Z",
+                        "totalCount": 2419
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:15:28.883Z",
+                        "totalCount": 237
+                    }
+                ]
+            },
+            {
+                "printerId": "29e38474-3a57-4464-9189-717a77f76c97",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:21:17.413Z",
+                        "totalCount": 167409
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:21:17.443Z",
+                        "totalCount": 2509
+                    }
+                ]
+            },
+            {
+                "printerId": "7bb062e3-cab4-4e0d-8240-e51287799f6e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T13:22:33.020Z",
+                        "totalCount": 164213
+                    }
+                ]
+            },
+            {
+                "printerId": "8c547779-8a98-4e4a-bf83-eaf5c0893d17",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:35:03.923Z",
+                        "totalCount": 708
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T16:35:03.940Z",
+                        "totalCount": 3423
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:35:04.770Z",
+                        "totalCount": 513
+                    }
+                ]
+            },
+            {
+                "printerId": "46fbc338-7a60-404d-b81e-e7732fb43d72",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:33:24.970Z",
+                        "totalCount": 230445
+                    }
+                ]
+            },
+            {
+                "printerId": "d3775093-59a5-46ce-b1c8-30dc480c3718",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:30:31.250Z",
+                        "totalCount": 113888
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:30:31.280Z",
+                        "totalCount": 43096
+                    }
+                ]
+            },
+            {
+                "printerId": "06b671ad-7914-4c68-85b6-e11efefc07eb",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:43:54.497Z",
+                        "totalCount": 49440
+                    }
+                ]
+            },
+            {
+                "printerId": "db16d00c-8a11-4391-8361-d10cd12218c0",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:35:46.407Z",
+                        "totalCount": 57339
+                    }
+                ]
+            },
+            {
+                "printerId": "84c26a3f-c048-4d0f-b12a-86972d79c280",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:45:36.903Z",
+                        "totalCount": 233682
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:45:36.907Z",
+                        "totalCount": 9311
+                    }
+                ]
+            },
+            {
+                "printerId": "f272e955-8e0a-4ace-9f1b-525ef7bb02d3",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:27:39.490Z",
+                        "totalCount": 159571
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:27:39.490Z",
+                        "totalCount": 519
+                    }
+                ]
+            },
+            {
+                "printerId": "2567c7b9-9e2c-43a9-8c5d-1a5b1cc26cac",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:44:12.443Z",
+                        "totalCount": 162968
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:44:12.483Z",
+                        "totalCount": 25699
+                    }
+                ]
+            },
+            {
+                "printerId": "cecbdcf2-b7c6-46e0-b947-4e8839f1503b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:23:41.290Z",
+                        "totalCount": 166580
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:23:41.303Z",
+                        "totalCount": 27
+                    }
+                ]
+            },
+            {
+                "printerId": "d31850ba-2150-4f59-bbcf-ea81671ac1b7",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:13:28.653Z",
+                        "totalCount": 29907
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:13:28.680Z",
+                        "totalCount": 312
+                    }
+                ]
+            },
+            {
+                "printerId": "8223422c-59ca-447e-b610-b2359e7d7c1b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:16:17.803Z",
+                        "totalCount": 1606
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T16:16:17.817Z",
+                        "totalCount": 4074
+                    }
+                ]
+            },
+            {
+                "printerId": "ddde340e-6f44-463a-8100-a62e686a3209",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:05:18.867Z",
+                        "totalCount": 79163
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:05:18.880Z",
+                        "totalCount": 1087
+                    }
+                ]
+            },
+            {
+                "printerId": "b83693d6-2dae-4206-b104-68f0f3d1495a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:23:41.190Z",
+                        "totalCount": 235362
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:23:41.193Z",
+                        "totalCount": 3565
+                    }
+                ]
+            },
+            {
+                "printerId": "2a5aed18-019a-4651-9cad-17a5a0548453",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:53:31.783Z",
+                        "totalCount": 345614
+                    }
+                ]
+            },
+            {
+                "printerId": "d7819362-2a7d-416b-bf61-67751e89b397",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:18:28.670Z",
+                        "totalCount": 1738
+                    }
+                ]
+            },
+            {
+                "printerId": "9bea37f1-deb3-42c2-823f-2bf54a504630",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:53:38.097Z",
+                        "totalCount": 99145
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T18:53:38.097Z",
+                        "totalCount": 126858
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:53:38.097Z",
+                        "totalCount": 496
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T18:53:38.113Z",
+                        "totalCount": 12738
+                    }
+                ]
+            },
+            {
+                "printerId": "21740322-27dd-490c-92dd-510fb3cfccb5",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-10T15:27:38.007Z",
+                        "totalCount": 11611
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-10T15:27:38.007Z",
+                        "totalCount": 49111
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-10T15:27:38.063Z",
+                        "totalCount": 244
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-10T15:27:38.047Z",
+                        "totalCount": 1491
+                    }
+                ]
+            },
+            {
+                "printerId": "96a02f21-74a3-4840-8de0-9eaf213aae2c",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:18:58.083Z",
+                        "totalCount": 108347
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:18:58.097Z",
+                        "totalCount": 18574
+                    }
+                ]
+            },
+            {
+                "printerId": "977005bc-fcab-472d-bfb4-83913c580f1e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:32:13.480Z",
+                        "totalCount": 290766
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:32:13.497Z",
+                        "totalCount": 75690
+                    }
+                ]
+            },
+            {
+                "printerId": "d05499b2-1c38-4749-ab67-265ba9345a1e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:54:35.333Z",
+                        "totalCount": 30886
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:54:35.373Z",
+                        "totalCount": 7647
+                    }
+                ]
+            },
+            {
+                "printerId": "a4b79e8c-a85e-4de8-8999-f3d7075fda30",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:07:13.693Z",
+                        "totalCount": 45905
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:07:13.740Z",
+                        "totalCount": 1482
+                    }
+                ]
+            },
+            {
+                "printerId": "a295b11a-841a-4509-82d5-71d3d9b028fb",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:13:54.990Z",
+                        "totalCount": 82382
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:13:55.007Z",
+                        "totalCount": 1967
+                    }
+                ]
+            },
+            {
+                "printerId": "aae43007-3215-4587-aeb2-721656d2d027",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:36:39.133Z",
+                        "totalCount": 53896
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:36:39.220Z",
+                        "totalCount": 4687
+                    }
+                ]
+            },
+            {
+                "printerId": "fc8dc212-8bde-4c5f-bf95-80cddbdc31b9",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:35:26.087Z",
+                        "totalCount": 53126
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T17:35:26.093Z",
+                        "totalCount": 45961
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:35:26.093Z",
+                        "totalCount": 9
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T17:35:26.103Z",
+                        "totalCount": 33
+                    }
+                ]
+            },
+            {
+                "printerId": "d181f4c2-5297-4d75-a80a-4f0f219891c7",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:04:56.233Z",
+                        "totalCount": 2180
+                    }
+                ]
+            },
+            {
+                "printerId": "e6874c0e-a54e-4af8-bcf3-2de88d12cbac",
+                "counters": []
+            },
+            {
+                "printerId": "5265f29d-2327-4214-8528-99b7cd08f545",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:05:38.147Z",
+                        "totalCount": 121658
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:05:38.163Z",
+                        "totalCount": 1313
+                    }
+                ]
+            },
+            {
+                "printerId": "10cb213c-daec-4256-8bce-d4ec3396ec90",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:34:58.273Z",
+                        "totalCount": 163753
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:35:01.853Z",
+                        "totalCount": 52410
+                    }
+                ]
+            },
+            {
+                "printerId": "e6177a0e-edaf-4f37-8e18-4501ca325b0e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:24:35.197Z",
+                        "totalCount": 80862
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:24:35.227Z",
+                        "totalCount": 406
+                    }
+                ]
+            },
+            {
+                "printerId": "010a22ee-208d-4f37-ab52-ada2d5b81cc6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:32:02.200Z",
+                        "totalCount": 112564
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:32:02.257Z",
+                        "totalCount": 10565
+                    }
+                ]
+            },
+            {
+                "printerId": "d93b6894-a8eb-48e0-b2d4-04c9b783859a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:34:14.333Z",
+                        "totalCount": 130850
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:34:16.310Z",
+                        "totalCount": 37
+                    }
+                ]
+            },
+            {
+                "printerId": "baf37f33-8c4c-4e24-8a68-3808d4db6973",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:05:18.903Z",
+                        "totalCount": 56813
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T18:05:18.920Z",
+                        "totalCount": 123896
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:05:18.937Z",
+                        "totalCount": 220
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T18:05:18.943Z",
+                        "totalCount": 5921
+                    }
+                ]
+            },
+            {
+                "printerId": "8687f9f3-c145-421d-980f-a4c06a3cf464",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T10:56:25.537Z",
+                        "totalCount": 146588
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T10:56:25.567Z",
+                        "totalCount": 12045
+                    }
+                ]
+            },
+            {
+                "printerId": "1bbd8a86-0b3c-42ad-bac4-6cbe334f080b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:44:49.563Z",
+                        "totalCount": 6585
+                    }
+                ]
+            },
+            {
+                "printerId": "60e48656-2533-4520-8ae6-59b19504ec7f",
+                "counters": []
+            },
+            {
+                "printerId": "c682593a-91a1-435b-b6a7-cf146faabfd9",
+                "counters": []
+            },
+            {
+                "printerId": "1bd4718c-308d-4f36-a12d-1cc869bbcf82",
+                "counters": []
+            },
+            {
+                "printerId": "e94a41d9-4c94-4d9c-a129-6d26cadcc923",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:25:36.250Z",
+                        "totalCount": 40584
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:25:36.343Z",
+                        "totalCount": 66
+                    }
+                ]
+            },
+            {
+                "printerId": "4c99a8ad-eeb8-43e9-8f73-a68e0596f54b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:32:02.257Z",
+                        "totalCount": 116170
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:32:02.323Z",
+                        "totalCount": 9749
+                    }
+                ]
+            },
+            {
+                "printerId": "16aec395-22c0-474a-879f-9f88aa1399fb",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:45:33.400Z",
+                        "totalCount": 27584
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:45:33.430Z",
+                        "totalCount": 3249
+                    }
+                ]
+            },
+            {
+                "printerId": "14bbfc1a-4fb3-4db5-a97b-9dc115a3b5f6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:53:38.130Z",
+                        "totalCount": 58106
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:53:38.147Z",
+                        "totalCount": 62
+                    }
+                ]
+            },
+            {
+                "printerId": "22f54bd0-a1d0-4001-92f9-db472fe91af1",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:35:37.900Z",
+                        "totalCount": 99162
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:35:37.930Z",
+                        "totalCount": 17105
+                    }
+                ]
+            },
+            {
+                "printerId": "84a415aa-fa66-476a-bfb1-a4466c75d6e6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:34:14.717Z",
+                        "totalCount": 112978
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:34:16.390Z",
+                        "totalCount": 5749
+                    }
+                ]
+            },
+            {
+                "printerId": "c6b4a730-7d59-44d1-988b-1fceafbc527e",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:42:08.000Z",
+                        "totalCount": 25120
+                    }
+                ]
+            },
+            {
+                "printerId": "ef56198f-0596-4aec-8c39-2dbdeedd34b9",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:18:49.713Z",
+                        "totalCount": 76295
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T19:18:49.717Z",
+                        "totalCount": 61454
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:18:49.717Z",
+                        "totalCount": 9545
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-13T19:18:49.717Z",
+                        "totalCount": 8355
+                    }
+                ]
+            },
+            {
+                "printerId": "170b35ef-2be2-409e-85a6-a0c64f3270d5",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:13:54.837Z",
+                        "totalCount": 981
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T16:13:54.023Z",
+                        "totalCount": 17699
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:13:54.837Z",
+                        "totalCount": 3677
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:13:54.023Z",
+                        "totalCount": 2074
+                    }
+                ]
+            },
+            {
+                "printerId": "7000f629-4b04-4c1a-9c1d-d1af484b73c6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:59:04.713Z",
+                        "totalCount": 68627
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T14:59:04.797Z",
+                        "totalCount": 2524
+                    }
+                ]
+            },
+            {
+                "printerId": "4983d9f6-84fa-4d00-8be0-a1f66948c187",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:18:49.687Z",
+                        "totalCount": 71960
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:18:49.713Z",
+                        "totalCount": 18763
+                    }
+                ]
+            },
+            {
+                "printerId": "f9c1b3a0-24b6-4265-8300-83a473cbb02a",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:53:39.840Z",
+                        "totalCount": 80591
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:53:39.913Z",
+                        "totalCount": 28
+                    }
+                ]
+            },
+            {
+                "printerId": "91a920f9-6d17-4cd8-bf9d-0e250a2b23a2",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-04T15:41:19.350Z",
+                        "totalCount": 271161
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-04T15:41:19.803Z",
+                        "totalCount": 58267
+                    }
+                ]
+            },
+            {
+                "printerId": "5bb5305e-a46a-4a13-b952-30455dd993b0",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:21:26.910Z",
+                        "totalCount": 71157
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:21:26.973Z",
+                        "totalCount": 198
+                    }
+                ]
+            },
+            {
+                "printerId": "951c9e16-1419-4fa7-91ec-8d3a650ed2fc",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:16:02.840Z",
+                        "totalCount": 41533
+                    }
+                ]
+            },
+            {
+                "printerId": "49b07a96-292e-4424-878c-22592dad68c5",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:24:09.643Z",
+                        "totalCount": 76143
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T15:24:09.670Z",
+                        "totalCount": 834
+                    }
+                ]
+            },
+            {
+                "printerId": "8f13ad3d-7d59-42b3-bfb0-73241c58da08",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:54:35.343Z",
+                        "totalCount": 14575
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:54:35.393Z",
+                        "totalCount": 281
+                    }
+                ]
+            },
+            {
+                "printerId": "fef5812c-09a5-42de-83a0-9d52aae2fbb6",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:39:49.180Z",
+                        "totalCount": 167979
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:39:49.210Z",
+                        "totalCount": 15709
+                    }
+                ]
+            },
+            {
+                "printerId": "3dde0ab6-3a80-4f8c-b5f3-10b2e9b53575",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:15:49.490Z",
+                        "totalCount": 43340
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:15:49.523Z",
+                        "totalCount": 14
+                    }
+                ]
+            },
+            {
+                "printerId": "4454796d-2824-495d-833f-8151c9e2ab2b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:15:38.610Z",
+                        "totalCount": 266239
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T18:15:38.613Z",
+                        "totalCount": 3090
+                    }
+                ]
+            },
+            {
+                "printerId": "0aa8200d-1d7a-4832-949e-68fda2265262",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T18:56:22.807Z",
+                        "totalCount": 9
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-13T18:56:22.810Z",
+                        "totalCount": 1972
+                    }
+                ]
+            },
+            {
+                "printerId": "1635bf64-aa55-4a0a-8e55-969fa78a238f",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T15:18:26.600Z",
+                        "totalCount": 131896
+                    }
+                ]
+            },
+            {
+                "printerId": "e8fbc9d5-8b96-4f2f-aa79-0215e04f00dd",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T16:53:22.483Z",
+                        "totalCount": 35852
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:53:23.027Z",
+                        "totalCount": 52
+                    }
+                ]
+            },
+            {
+                "printerId": "a1a43766-cbe6-4eeb-b76b-d3cdae196789",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-12T17:47:23.823Z",
+                        "totalCount": 25819
+                    },
+                    {
+                        "type": "color",
+                        "dateOfCapture": "2025-11-12T17:47:23.837Z",
+                        "totalCount": 54649
+                    },
+                    {
+                        "type": "a3BlackAndWhite",
+                        "dateOfCapture": "2025-11-12T17:47:24.307Z",
+                        "totalCount": 765
+                    },
+                    {
+                        "type": "a3Color",
+                        "dateOfCapture": "2025-11-12T17:47:24.307Z",
+                        "totalCount": 7932
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-12T17:47:24.053Z",
+                        "totalCount": 39
+                    }
+                ]
+            },
+            {
+                "printerId": "dfcf1b09-75ad-45d5-95a1-85bac0229dc0",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:05:18.880Z",
+                        "totalCount": 64260
+                    }
+                ]
+            },
+            {
+                "printerId": "7488b8fb-3591-4581-8c60-c0765de51bd7",
+                "counters": [
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T16:16:20.787Z",
+                        "totalCount": 78764
+                    }
+                ]
+            },
+            {
+                "printerId": "2e185400-5f30-421e-91db-6d35d6f52324",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T17:24:04.353Z",
+                        "totalCount": 425353
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T17:24:04.820Z",
+                        "totalCount": 27965
+                    }
+                ]
+            },
+            {
+                "printerId": "3fdf53a5-7966-404c-868e-1058c44054f8",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:39:32.797Z",
+                        "totalCount": 242
+                    }
+                ]
+            },
+            {
+                "printerId": "b407a5e1-c95f-4936-8afc-f946f8b619f4",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T14:54:47.000Z",
+                        "totalCount": 21424
+                    }
+                ]
+            },
+            {
+                "printerId": "8c5a1a17-0b0b-47b4-bc12-60e087d0a11b",
+                "counters": [
+                    {
+                        "type": "blackAndWhite",
+                        "dateOfCapture": "2025-11-13T19:05:18.220Z",
+                        "totalCount": 37142
+                    },
+                    {
+                        "type": "scan",
+                        "dateOfCapture": "2025-11-13T19:05:18.280Z",
+                        "totalCount": 3677
+                    }
+                ]
+            }
+        ]
+    }
+}

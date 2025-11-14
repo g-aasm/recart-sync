@@ -1,0 +1,548 @@
+[
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Matosinhos - CPD | Loja 17",
+        "auvoClientId": "20032640",
+        "auvoClientDescription": "Esquinão - Loja 17 | Matosinhos"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "Barroso, Bandeirantes - CPD | Loja 19",
+        "auvoClientId": "20033346",
+        "auvoClientDescription": "Esquinão - Loja 19 | Barroso, Bandeirantes"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "Barroso, Centro - Aplicativo | Loja 18",
+        "auvoClientId": "20033333",
+        "auvoClientDescription": "Esquinão - Loja 18 | Barroso, Centro"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "Barroso, Centro - CPD | Loja 18",
+        "auvoClientId": "20033333",
+        "auvoClientDescription": "Esquinão - Loja 18 | Barroso, Centro"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "Barroso, Colonial - CPD | Loja 14",
+        "auvoClientId": "20026508",
+        "auvoClientDescription": "Esquinão - Loja 14 | Barroso, Colonial "
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "Barroso, Colonial - Frente de Loja | Loja 14",
+        "auvoClientId": "20026508",
+        "auvoClientDescription": "Esquinão - Loja 14 | Barroso, Colonial "
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "Barroso, São José - CPD | Loja 15",
+        "auvoClientId": "20026547",
+        "auvoClientDescription": "Esquinão - Loja 15 | Barroso, São José"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR,  Matosinhos - Gerência | Loja 17",
+        "auvoClientId": "20032640",
+        "auvoClientDescription": "Esquinão - Loja 17 | Matosinhos"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "RH - Home Office",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Bom Pastor - CPD | Loja 09",
+        "auvoClientId": "20026160",
+        "auvoClientDescription": "Esquinão - Loja 09 | Bom Pastor"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - Cadastro e Estoque",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - Compras",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - Financeiro",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - Logística",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - Promoções - A4\/A3",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - Promoções A1",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - RH",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - RH Ponto\/Admissão",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - RH\/DP",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, CD - Serviços Banco e Tesouraria",
+        "auvoClientId": "20025572",
+        "auvoClientDescription": "Esquinão - Loja 07 | Bonfim (CD)"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Centro - CPD | Loja 11",
+        "auvoClientId": "20026275",
+        "auvoClientDescription": "Esquinão - Loja 11 | Centro"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Centro - CPD | Loja 21",
+        "auvoClientId": "20033373",
+        "auvoClientDescription": "Esquinão - Loja 21 | Centro"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Centro - Gerência | Loja 21",
+        "auvoClientId": "20033373",
+        "auvoClientDescription": "Esquinão - Loja 21 | Centro"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Fábricas - CPD | Loja 06",
+        "auvoClientId": "20025175",
+        "auvoClientDescription": "Esquinão - Loja 06 | Fábricas"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Fábricas - CPD | Loja 23",
+        "auvoClientId": "20033414",
+        "auvoClientDescription": "Esquinão - Loja 23 | Fábricas"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Fábricas - Frente de loja | Loja 23",
+        "auvoClientId": "20033414",
+        "auvoClientDescription": "Esquinão - Loja 23 | Fábricas"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Fábricas - Gerência | Loja 23",
+        "auvoClientId": "20033414",
+        "auvoClientDescription": "Esquinão - Loja 23 | Fábricas"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Matosinhos - CPD | Loja 08",
+        "auvoClientId": "20025909",
+        "auvoClientDescription": "Esquinão - Loja 08 | Matosinhos"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Matosinhos - RH\/DP | Loja 17",
+        "auvoClientId": "20032640",
+        "auvoClientDescription": "Esquinão - Loja 17 | Matosinhos"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Matosinhos - CPD | Loja 22",
+        "auvoClientId": "20033399",
+        "auvoClientDescription": "Esquinão - Loja 22 | Matosinhos"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Sr. dos Montes - CPD | Loja 13",
+        "auvoClientId": "20026481",
+        "auvoClientDescription": "Esquinão - Loja 13 | Sr. dos Montes"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "SJDR, Tejuco - CPD | Loja 12",
+        "auvoClientId": "20026309",
+        "auvoClientDescription": "Esquinão - Loja 12 | Tejuco"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "São Tiago, Cerrado - CPD | Loja 16",
+        "auvoClientId": "20026592",
+        "auvoClientDescription": "Esquinão - Loja 16 | São Tiago"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "Tiradentes, Centro - CPD | Loja 10",
+        "auvoClientId": "20026190",
+        "auvoClientDescription": "Esquinão - Loja 10 | Tiradentes"
+    },
+    {
+        "docProblematico": "25.994.179\/0001-70",
+        "departmentMatch": "Tiradentes, Centro - Frente de Loja | Loja 10",
+        "auvoClientId": "20026190",
+        "auvoClientDescription": "Esquinão - Loja 10 | Tiradentes"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Administrativo Contêiner - A4 \/ A3",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Almoxarifado",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Antiligas",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Backup",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Backup - Estocagem Espodumênio",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Backup - TI",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Balança",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Barragem",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Britagem",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Carregamento",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Comercial",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Container Manutenção",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Controladoria",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Digestão de Sais",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Digestão de TB e NB",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Diretoria",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Estocagem Espodumênio",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Expedição",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Expedição Espodumênio",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Expedição Feldspato",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Financeiro",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Fábrica de Sais",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Galpão de Minérios",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Geologia",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Implementação",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Laboratório",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Laboratório Balança",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Laboratório Espectrômetro",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Laboratório Metalográfico",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Laboratório Metalográfico - Antiligas",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Laboratório Preparação Física",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Manutenção",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Manutenção PCM",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Medicina",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Mina",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Novos Produtos (P&D)",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Oficina Mecânica",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Oficina Mecânica Operacionais",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "PCP",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Portaria",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Portaria 1",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Precipitação",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Processos",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Produção Feldspato",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Produção Planta 1",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Produção Planta 2",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Projetos",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Qualidade",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "RH",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Sala de Controle",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Sala de Líderes\/Planta 02",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Segurança",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Separação",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Suprimentos",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "TI",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    },
+    {
+        "docProblematico": "11.224.676\/0003-47",
+        "departmentMatch": "Usina",
+        "auvoClientId": "19952169",
+        "auvoClientDescription": "AMG Brasil SJDR"
+    }
+]

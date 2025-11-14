@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "source": "auvo_categories",
+        "fetched_at": "13\/11\/2025 19:29:48",
+        "count": 3
+    },
+    "data": {
+        "count": 3,
+        "data": [
+            {
+                "externalId": "",
+                "id": 44959,
+                "description": "Colorida"
+            },
+            {
+                "externalId": "",
+                "id": 44961,
+                "description": "Desconhecido"
+            },
+            {
+                "externalId": "",
+                "id": 44958,
+                "description": "Monocromática"
+            }
+        ]
+    }
+}

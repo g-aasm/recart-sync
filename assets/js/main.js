@@ -1,0 +1,1 @@
+// future JS interações gerais
